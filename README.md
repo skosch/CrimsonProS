@@ -4,7 +4,7 @@ A slightly modified version of [Crimson
 Pro](https://github.com/Fonthausen/Crimson).
 
 Crimson Pro S differs from Crimson Pro in a few stylistic details: sharper
-terminals, straight-legged capital R, slightly resized punctuation, recalibrated
+terminals, straight-legged capital R, slightly resized punctuation, somewhat lighter-leaning
 weight distribution.
 
 It's no better or worse than the original Crimson Pro by [@Fonthausen](https://github.com/Fonthausen), just a little different.
