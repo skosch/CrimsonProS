@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.0">
   <axes>
-    <axis tag="wght" name="Weight" minimum="275" maximum="900" default="275">
-      <map input="275" output="0"/>
-      <map input="300" output="88"/>
-      <map input="400" output="250"/>
-      <map input="500" output="351"/>
-      <map input="600" output="509"/>
+    <axis tag="wght" name="Weight" minimum="250" maximum="900" default="400">
+      <map input="250" output="0"/>
+      <map input="300" output="110"/>
+      <map input="400" output="182"/>
+      <map input="500" output="269"/>
+      <map input="600" output="429"/>
       <map input="700" output="675"/>
       <map input="800" output="848"/>
       <map input="900" output="1000"/>
@@ -34,33 +34,9 @@
     </source>
   </sources>
   <instances>
-    <instance name="CrimsonProS Thin" familyname="CrimsonProS" stylename="Thin" filename="instance_ufos/CrimsonProS-Thin.ufo">
-      <location>
-        <dimension name="Weight" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.instanceInterpolations</key>
-          <dict>
-            <key>1F9E295B-DEDB-4635-AE01-A776835412CD</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>ExtraLight</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
-    </instance>
     <instance name="CrimsonProS ExtraLight" familyname="CrimsonProS" stylename="ExtraLight" filename="instance_ufos/CrimsonProS-ExtraLight.ufo">
       <location>
-        <dimension name="Weight" xvalue="55"/>
+        <dimension name="Weight" xvalue="0"/>
       </location>
       <kerning/>
       <info/>
@@ -112,7 +88,7 @@
     </instance>
     <instance name="CrimsonProS Regular" familyname="CrimsonProS" stylename="Regular" filename="instance_ufos/CrimsonProS-Regular.ufo">
       <location>
-        <dimension name="Weight" xvalue="185"/>
+        <dimension name="Weight" xvalue="182"/>
       </location>
       <kerning/>
       <info/>
@@ -138,7 +114,7 @@
     </instance>
     <instance name="CrimsonProS Medium" familyname="CrimsonProS" stylename="Medium" filename="instance_ufos/CrimsonProS-Medium.ufo">
       <location>
-        <dimension name="Weight" xvalue="238"/>
+        <dimension name="Weight" xvalue="269"/>
       </location>
       <kerning/>
       <info/>

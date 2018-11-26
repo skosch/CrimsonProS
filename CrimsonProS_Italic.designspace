@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.0">
   <axes>
-    <axis tag="wght" name="Weight" minimum="275" maximum="900" default="275">
-      <map input="275" output="0"/>
-      <map input="300" output="88"/>
-      <map input="400" output="500"/>
-      <map input="500" output="351"/>
-      <map input="600" output="509"/>
+    <axis tag="wght" name="Weight" minimum="250" maximum="900" default="400">
+      <map input="250" output="0"/>
+      <map input="300" output="110"/>
+      <map input="400" output="182"/>
+      <map input="500" output="269"/>
+      <map input="600" output="429"/>
       <map input="700" output="675"/>
       <map input="800" output="848"/>
       <map input="900" output="1000"/>
@@ -34,33 +34,9 @@
     </source>
   </sources>
   <instances>
-    <instance name="CrimsonProS Thin Italic" familyname="CrimsonProS" stylename="Thin Italic" filename="instance_ufos/CrimsonProS-ThinItalic.ufo" stylemapfamilyname="CrimsonProS Thin" stylemapstylename="italic">
-      <location>
-        <dimension name="Weight" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>D9A1C40A-2361-406B-8D3E-8FA7FBCB82BD</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Thin</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
-    </instance>
     <instance name="CrimsonProS ExtraLight Italic" familyname="CrimsonProS" stylename="ExtraLight Italic" filename="instance_ufos/CrimsonProS-ExtraLightItalic.ufo" stylemapfamilyname="CrimsonProS ExtraLight" stylemapstylename="italic">
       <location>
-        <dimension name="Weight" xvalue="55"/>
+        <dimension name="Weight" xvalue="0"/>
       </location>
       <kerning/>
       <info/>
