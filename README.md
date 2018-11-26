@@ -9,6 +9,7 @@ weight distribution.
 
 It's no better or worse than the original Crimson Pro by [@Fonthausen](https://github.com/Fonthausen), just a little different.
 
+<img src="https://raw.githubusercontent.com/skosch/CrimsonProS/master/specimen/comparison.png" width="1011">
 <img src="https://raw.githubusercontent.com/skosch/CrimsonProS/master/specimen/waterfall.png" width="1011">
 
 ## Building the weight instances
