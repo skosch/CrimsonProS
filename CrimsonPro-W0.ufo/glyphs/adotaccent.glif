@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adotaccent" format="2">
+  <advance width="465.0"/>
+  <unicode hex="0227"/>
+  <outline>
+    <component base="a"/>
+    <component base="dotaccentcomb" xOffset="-74.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/11 19:28:56</string>
+    </dict>
+  </lib>
+</glyph>

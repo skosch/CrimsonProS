@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_j" format="2">
+  <outline>
+    <contour>
+      <point x="385.0" y="372.0" type="move"/>
+      <point x="391.0" y="330.0"/>
+      <point x="393.0" y="311.0"/>
+      <point x="393.0" y="287.0" type="curve" smooth="yes"/>
+      <point x="392.0" y="167.0" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="557.0" y="163.0" type="move" smooth="yes"/>
+      <point x="557.0" y="291.0" type="line" smooth="yes"/>
+      <point x="557.0" y="349.0"/>
+      <point x="558.474256952682" y="380.6938101357582"/>
+      <point x="563.474256952682" y="436.6938101357582" type="curve"/>
+      <point x="535.5591327458797" y="452.82443327962267" type="line"/>
+      <point x="387.5977576776063" y="444.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

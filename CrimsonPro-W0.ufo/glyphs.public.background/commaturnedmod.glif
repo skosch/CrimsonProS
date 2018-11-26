@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedmod" format="2">
+  <anchor x="300.0" y="425.357" name="_top"/>
+  <anchor x="300.0" y="670.786" name="top"/>
+  <outline>
+    <contour>
+      <point x="360.429" y="712.571" type="line"/>
+      <point x="302.286" y="691.036"/>
+      <point x="257.679" y="647.464"/>
+      <point x="257.679" y="592.393" type="curve" smooth="yes"/>
+      <point x="257.679" y="560.286"/>
+      <point x="273.786" y="534.357"/>
+      <point x="307.464" y="534.357" type="curve" smooth="yes"/>
+      <point x="326.5" y="534.357"/>
+      <point x="342.321" y="548.107"/>
+      <point x="342.321" y="567.393" type="curve" smooth="yes"/>
+      <point x="342.321" y="602.036"/>
+      <point x="307.536" y="599.821"/>
+      <point x="307.536" y="631.357" type="curve" smooth="yes"/>
+      <point x="307.536" y="654.75"/>
+      <point x="335.321" y="678.214"/>
+      <point x="371.036" y="690.75" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

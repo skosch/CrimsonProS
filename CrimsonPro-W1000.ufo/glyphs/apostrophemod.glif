@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="apostrophemod" format="2">
+  <advance width="600.0"/>
+  <unicode hex="02BC"/>
+  <note>
+uni02BB
+</note>
+  <anchor x="300.0" y="446.0" name="_top"/>
+  <anchor x="300.0" y="659.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="228.0" y="498.0" type="line"/>
+      <point x="351.0" y="521.0"/>
+      <point x="402.0" y="597.0"/>
+      <point x="402.0" y="657.0" type="curve" smooth="yes"/>
+      <point x="402.0" y="723.0"/>
+      <point x="351.0" y="745.0"/>
+      <point x="307.0" y="745.0" type="curve" smooth="yes"/>
+      <point x="257.0" y="745.0"/>
+      <point x="223.0" y="717.0"/>
+      <point x="223.0" y="682.0" type="curve" smooth="yes"/>
+      <point x="223.0" y="610.0"/>
+      <point x="303.0" y="625.0"/>
+      <point x="303.0" y="591.0" type="curve" smooth="yes"/>
+      <point x="303.0" y="574.0"/>
+      <point x="287.0" y="552.0"/>
+      <point x="211.0" y="538.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/12 22:54:18</string>
+    </dict>
+  </lib>
+</glyph>

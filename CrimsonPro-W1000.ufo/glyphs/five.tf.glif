@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.tf" format="2">
+  <advance width="540.0"/>
+  <note>
+    five
+  </note>
+  <outline>
+    <contour>
+      <point x="220.0" y="-9.0" type="curve" smooth="yes"/>
+      <point x="402.0" y="-9.0"/>
+      <point x="498.0" y="88.0"/>
+      <point x="498.0" y="187.0" type="curve" smooth="yes"/>
+      <point x="498.0" y="297.541346"/>
+      <point x="398.76226255896097" y="367.0470058652794"/>
+      <point x="197.8428492991991" y="375.6311600010515" type="curve"/>
+      <point x="206.0" y="458.0" type="line"/>
+      <point x="459.0" y="458.0" type="line"/>
+      <point x="471.0" y="587.0" type="line"/>
+      <point x="147.0" y="587.0" type="line"/>
+      <point x="109.0" y="247.0" type="line"/>
+      <point x="268.0" y="242.0"/>
+      <point x="330.0" y="209.0"/>
+      <point x="330.0" y="146.0" type="curve" smooth="yes"/>
+      <point x="330.0" y="93.0"/>
+      <point x="279.61418189434585" y="65.06192923007893"/>
+      <point x="240.18245194852284" y="65.06192923007893" type="curve" smooth="yes"/>
+      <point x="235.9984353866914" y="65.06192923007893"/>
+      <point x="228.70447204894413" y="65.84096208966616"/>
+      <point x="222.40596133579356" y="67.86548339032151" type="curve"/>
+      <point x="196.03497441711033" y="87.34845862082693"/>
+      <point x="165.615974229308" y="120.1073818999987"/>
+      <point x="152.20851956538468" y="143.35475390447027" type="curve"/>
+      <point x="138.81673601949024" y="149.01750311023125"/>
+      <point x="126.82308260803947" y="151.0382171447177"/>
+      <point x="110.9277204364987" y="151.0382171447177" type="curve" smooth="yes"/>
+      <point x="70.51481430150784" y="151.0382171447177"/>
+      <point x="45.0" y="123.0"/>
+      <point x="45.0" y="89.0" type="curve" smooth="yes"/>
+      <point x="45.0" y="33.0"/>
+      <point x="120.0" y="-9.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/01 19:36:03</string>
+    </dict>
+  </lib>
+</glyph>

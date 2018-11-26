@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhorngrave" format="2">
+  <advance width="609.0"/>
+  <unicode hex="1EEB"/>
+  <note>
+uni1EEB
+</note>
+  <outline>
+    <component base="uhorn"/>
+    <component base="gravecomb" xOffset="2.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/11 19:50:46</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threequarters" format="2">
+  <advance width="922.0"/>
+  <unicode hex="00BE"/>
+  <note>
+threequarters
+</note>
+  <outline>
+    <component base="three.numr"/>
+    <component base="fraction" xOffset="400.0"/>
+    <component base="four.dnom" xOffset="522.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/01 19:36:03</string>
+    </dict>
+  </lib>
+</glyph>

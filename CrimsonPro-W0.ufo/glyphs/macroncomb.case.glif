@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb.case" format="2">
+  <note>
+uni0304.cap
+</note>
+  <anchor x="300.0" y="660.0" name="_top"/>
+  <anchor x="300.0" y="882.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="162.0" y="805.0" type="line"/>
+      <point x="162.0" y="758.0" type="line"/>
+      <point x="438.0" y="758.0" type="line"/>
+      <point x="438.0" y="805.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/12 22:54:18</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>600.0</real>
+    </dict>
+  </lib>
+</glyph>

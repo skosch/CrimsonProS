@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecedillabreve" format="2">
+  <advance width="601.0"/>
+  <unicode hex="1E1C"/>
+  <outline>
+    <component base="E"/>
+    <component base="cedillacomb.case" xOffset="4.0"/>
+    <component base="brevecomb.case" xOffset="4.0" yOffset="-73.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/01 19:36:03</string>
+    </dict>
+  </lib>
+</glyph>

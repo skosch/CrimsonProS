@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="2">
+  <anchor x="204.0" y="0.0" name="bottom"/>
+  <anchor x="147.0" y="270.0" name="stroke"/>
+  <anchor x="187.0" y="563.0" name="top"/>
+  <anchor x="271.0" y="688.0" name="topright"/>
+  <outline>
+  </outline>
+</glyph>

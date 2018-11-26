@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb.case" format="2">
+  <anchor x="300.0" y="660.0" name="_top"/>
+  <anchor x="300.0" y="871.464" name="top"/>
+  <outline>
+    <contour>
+      <point x="149.357" y="813.982" type="line"/>
+      <point x="149.357" y="749.018" type="line"/>
+      <point x="450.643" y="749.018" type="line"/>
+      <point x="450.643" y="813.982" type="line"/>
+    </contour>
+  </outline>
+</glyph>

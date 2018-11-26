@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb_dotaccentcomb.case" format="2">
+  <anchor x="300.0" y="660.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="285.464" y="859.393" type="curve" smooth="yes"/>
+      <point x="322.214" y="859.393"/>
+      <point x="345.429" y="885.929"/>
+      <point x="345.429" y="917.696" type="curve" smooth="yes"/>
+      <point x="345.429" y="949.018"/>
+      <point x="322.214" y="976.0"/>
+      <point x="285.464" y="976.0" type="curve" smooth="yes"/>
+      <point x="247.161" y="976.0"/>
+      <point x="223.5" y="949.018"/>
+      <point x="223.5" y="917.696" type="curve" smooth="yes"/>
+      <point x="223.5" y="885.929"/>
+      <point x="247.161" y="859.393"/>
+    </contour>
+    <contour>
+      <point x="327.089" y="707.018" type="line"/>
+      <point x="459.893" y="834.0" type="line"/>
+      <point x="357.75" y="857.0" type="line"/>
+      <point x="272.911" y="724.893" type="line"/>
+    </contour>
+  </outline>
+</glyph>

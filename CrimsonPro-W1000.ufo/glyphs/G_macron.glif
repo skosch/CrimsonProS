@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gmacron" format="2">
+  <advance width="672.0"/>
+  <unicode hex="1E20"/>
+  <note>
+uni1E20
+</note>
+  <outline>
+    <component base="G"/>
+    <component base="macroncomb.case" xOffset="53.0" yOffset="-73.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/12 09:40:28</string>
+    </dict>
+  </lib>
+</glyph>

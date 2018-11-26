@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.case" format="2">
+  <note>
+acutecomb.cap
+</note>
+  <anchor x="300.0" y="660.0" name="_top"/>
+  <anchor x="300.0" y="882.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="316.0" y="716.0" type="line"/>
+      <point x="406.0" y="834.0" type="line"/>
+      <point x="345.0" y="857.0" type="line"/>
+      <point x="284.0" y="727.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/12 22:54:18</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>600.0</real>
+    </dict>
+  </lib>
+</glyph>

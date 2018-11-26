@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance width="577.0"/>
+  <unicode hex="0111"/>
+  <note>
+dcroat
+</note>
+  <outline>
+    <component base="d"/>
+    <component base="strokeshortcomb" xOffset="109.0" yOffset="111.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/11 19:38:31</string>
+    </dict>
+  </lib>
+</glyph>

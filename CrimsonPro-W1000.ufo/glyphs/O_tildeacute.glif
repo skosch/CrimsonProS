@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Otildeacute" format="2">
+  <advance width="726.0"/>
+  <unicode hex="1E4C"/>
+  <note>
+uni1E4C
+</note>
+  <outline>
+    <component base="O"/>
+    <component base="tildecomb_acutecomb.case" xOffset="63.0" yOffset="-73.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/01 19:36:03</string>
+    </dict>
+  </lib>
+</glyph>

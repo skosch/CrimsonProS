@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won" format="2">
+  <advance width="925.0"/>
+  <unicode hex="20A9"/>
+  <outline>
+    <contour>
+      <point x="64.0" y="317.0" type="line"/>
+      <point x="865.0" y="317.0" type="line"/>
+      <point x="865.0" y="355.0" type="line"/>
+      <point x="64.0" y="355.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="484.0" y="462.0" type="line"/>
+      <point x="462.0" y="539.0" type="line"/>
+      <point x="293.0" y="83.0" type="line"/>
+      <point x="299.0" y="83.0" type="line"/>
+      <point x="133.0" y="543.0" type="line"/>
+      <point x="184.0" y="555.0" type="line"/>
+      <point x="182.0" y="587.0" type="line"/>
+      <point x="14.0" y="587.0" type="line"/>
+      <point x="12.0" y="555.0" type="line"/>
+      <point x="62.0" y="542.0" type="line"/>
+      <point x="263.0" y="-3.0" type="line"/>
+      <point x="301.0" y="-3.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="619.0" y="-3.0" type="line"/>
+      <point x="657.0" y="-3.0" type="line"/>
+      <point x="867.0" y="542.0" type="line"/>
+      <point x="917.0" y="555.0" type="line"/>
+      <point x="915.0" y="587.0" type="line"/>
+      <point x="740.0" y="587.0" type="line"/>
+      <point x="738.0" y="555.0" type="line"/>
+      <point x="809.0" y="542.0" type="line"/>
+      <point x="646.0" y="83.0" type="line"/>
+      <point x="655.0" y="83.0" type="line"/>
+      <point x="493.0" y="543.0" type="line"/>
+      <point x="552.0" y="555.0" type="line"/>
+      <point x="550.0" y="587.0" type="line"/>
+      <point x="376.0" y="587.0" type="line"/>
+      <point x="374.0" y="555.0" type="line"/>
+      <point x="423.0" y="542.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="64.0" y="195.0" type="line"/>
+      <point x="865.0" y="195.0" type="line"/>
+      <point x="865.0" y="233.0" type="line"/>
+      <point x="64.0" y="233.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>W</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>W</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/01 19:36:03</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

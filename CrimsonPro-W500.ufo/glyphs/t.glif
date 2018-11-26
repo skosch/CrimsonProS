@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="2">
+  <advance width="359.0"/>
+  <unicode hex="0074"/>
+  <note>
+    t
+  </note>
+  <anchor x="199.0" y="0.0" name="bottom"/>
+  <anchor x="134.0" y="270.0" name="stroke"/>
+  <anchor x="174.0" y="524.0" name="top"/>
+  <anchor x="232.0" y="688.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="362.7315637999484" y="64.57834851797838" type="curve"/>
+      <point x="343.8011183205381" y="100.64461008884359" type="line"/>
+      <point x="327.5191984701278" y="87.25725376739501"/>
+      <point x="296.0" y="75.0"/>
+      <point x="270.0" y="75.0" type="curve" smooth="yes"/>
+      <point x="219.0" y="75.0"/>
+      <point x="190.0" y="101.0"/>
+      <point x="190.0" y="161.0" type="curve"/>
+      <point x="192.0" y="401.0" type="line"/>
+      <point x="194.0" y="533.0" type="line"/>
+      <point x="165.0" y="533.0" type="line"/>
+      <point x="10.0" y="405.0" type="line"/>
+      <point x="10.0" y="376.0" type="line"/>
+      <point x="80.0" y="376.0" type="line"/>
+      <point x="77.0" y="148.0" type="line"/>
+      <point x="77.0" y="43.0"/>
+      <point x="140.0" y="-9.0"/>
+      <point x="229.0" y="-9.0" type="curve" smooth="yes"/>
+      <point x="288.0" y="-9.0"/>
+      <point x="337.9830456273246" y="26.283273029813017"/>
+    </contour>
+    <contour>
+      <point x="140.0" y="376.0" type="line"/>
+      <point x="336.0" y="376.0" type="line"/>
+      <point x="336.0" y="435.0" type="line"/>
+      <point x="140.0" y="435.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/15 14:33:53</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_j" format="2">
+  <advance width="577.0"/>
+  <outline>
+    <contour>
+      <point x="373.0" y="376.0" type="move"/>
+    </contour>
+    <contour>
+      <point x="499.230281066124" y="430.4301077088303" type="move"/>
+      <point x="478.3983049509068" y="443.8700922992932" type="line"/>
+      <point x="373.566425145297" y="434.46210308596915" type="line"/>
+    </contour>
+  </outline>
+</glyph>

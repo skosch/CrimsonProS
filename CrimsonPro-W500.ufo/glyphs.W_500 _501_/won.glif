@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won" format="2">
+  <advance width="962.0"/>
+  <unicode hex="20A9"/>
+  <outline>
+    <contour>
+      <point x="492.0" y="410.0" type="line"/>
+      <point x="453.0" y="495.0" type="line"/>
+      <point x="308.0" y="121.0" type="line"/>
+      <point x="348.0" y="121.0" type="line"/>
+      <point x="188.0" y="526.0" type="line"/>
+      <point x="239.0" y="541.0" type="line"/>
+      <point x="236.0" y="587.0" type="line"/>
+      <point x="3.0" y="587.0" type="line"/>
+      <point x="0.0" y="541.0" type="line"/>
+      <point x="51.0" y="526.0" type="line"/>
+      <point x="270.0" y="-3.0" type="line"/>
+      <point x="320.0" y="-3.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="638.0" y="-3.0" type="line"/>
+      <point x="688.0" y="-3.0" type="line"/>
+      <point x="910.0" y="526.0" type="line"/>
+      <point x="961.0" y="541.0" type="line"/>
+      <point x="958.0" y="587.0" type="line"/>
+      <point x="761.0" y="587.0" type="line"/>
+      <point x="758.0" y="541.0" type="line"/>
+      <point x="827.0" y="526.0" type="line"/>
+      <point x="677.0" y="121.0" type="line"/>
+      <point x="713.0" y="121.0" type="line"/>
+      <point x="551.0" y="526.0" type="line"/>
+      <point x="613.0" y="541.0" type="line"/>
+      <point x="610.0" y="587.0" type="line"/>
+      <point x="369.0" y="587.0" type="line"/>
+      <point x="366.0" y="541.0" type="line"/>
+      <point x="417.0" y="526.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="52.0" y="306.0" type="line"/>
+      <point x="210.0" y="306.0" type="line"/>
+      <point x="210.0" y="360.0" type="line"/>
+      <point x="52.0" y="360.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="52.0" y="190.0" type="line"/>
+      <point x="210.0" y="190.0" type="line"/>
+      <point x="210.0" y="244.0" type="line"/>
+      <point x="52.0" y="244.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="792.0" y="306.0" type="line"/>
+      <point x="910.0" y="306.0" type="line"/>
+      <point x="910.0" y="360.0" type="line"/>
+      <point x="792.0" y="360.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="752.0" y="190.0" type="line"/>
+      <point x="910.0" y="190.0" type="line"/>
+      <point x="910.0" y="244.0" type="line"/>
+      <point x="752.0" y="244.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>W</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>W</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/01 19:36:03</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

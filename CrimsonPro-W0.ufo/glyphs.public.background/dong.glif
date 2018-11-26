@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dong" format="2">
+  <outline>
+    <contour>
+      <point x="67.25" y="-112.393" type="line"/>
+      <point x="505.286" y="-112.393" type="line"/>
+      <point x="505.286" y="-78.893" type="line"/>
+      <point x="67.25" y="-78.893" type="line"/>
+    </contour>
+    <component base="dcroat"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorntilde" format="2">
+  <advance width="496.0"/>
+  <unicode hex="1EE1"/>
+  <note>
+uni1EE1
+</note>
+  <outline>
+    <component base="ohorn"/>
+    <component base="tildecomb" xScale="1.02321" xOffset="-63.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/09 10:27:21</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

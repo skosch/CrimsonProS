@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.osf" format="2">
+  <advance width="469.0"/>
+  <note>
+    five.onum
+  </note>
+  <outline>
+    <contour>
+      <point x="182.0" y="-228.0" type="curve" smooth="yes"/>
+      <point x="331.0" y="-228.0"/>
+      <point x="433.0" y="-133.0"/>
+      <point x="433.0" y="-19.0" type="curve" smooth="yes"/>
+      <point x="433.0" y="112.75427399999998"/>
+      <point x="301.8754013932048" y="173.39720488354507"/>
+      <point x="149.006169722628" y="188.33288849876317" type="curve"/>
+      <point x="167.0" y="334.0" type="line"/>
+      <point x="392.0" y="334.0" type="line"/>
+      <point x="402.0" y="436.0" type="line"/>
+      <point x="114.0" y="436.0" type="line"/>
+      <point x="73.0" y="95.0" type="line"/>
+      <point x="199.61275866613937" y="88.17516805061291"/>
+      <point x="313.0" y="53.0"/>
+      <point x="313.0" y="-48.0" type="curve" smooth="yes"/>
+      <point x="313.0" y="-130.0"/>
+      <point x="255.3920815919496" y="-174.1635856558571"/>
+      <point x="195.83319000458755" y="-174.1635856558571" type="curve" smooth="yes"/>
+      <point x="182.73398614644157" y="-174.1635856558571"/>
+      <point x="168.91659069128696" y="-173.01330363392117"/>
+      <point x="161.55478575089705" y="-170.25262678127478" type="curve"/>
+      <point x="152.35252957540956" y="-156.90935532681806"/>
+      <point x="121.71821876721197" y="-110.87046768085474"/>
+      <point x="112.47182584451252" y="-93.282783374568" type="curve"/>
+      <point x="102.19384296332578" y="-86.17340143343631"/>
+      <point x="91.48982970364416" y="-83.13793498666087"/>
+      <point x="77.5905886052517" y="-83.13793498666087" type="curve" smooth="yes"/>
+      <point x="45.921075100957296" y="-83.13793498666087"/>
+      <point x="25.6466642951234" y="-104.37737151508432"/>
+      <point x="25.6466642951234" y="-139.49316528909094" type="curve" smooth="yes"/>
+      <point x="25.6466642951234" y="-190.4943190979161"/>
+      <point x="91.0" y="-228.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/12 21:37:12</string>
+    </dict>
+  </lib>
+</glyph>

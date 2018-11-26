@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb.case" format="2">
+  <note>
+uni030A.cap
+</note>
+  <anchor x="300.0" y="660.0" name="_top"/>
+  <anchor x="300.0" y="880.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="301.0" y="713.0" type="curve" smooth="yes"/>
+      <point x="362.0" y="713.0"/>
+      <point x="407.0" y="756.0"/>
+      <point x="407.0" y="814.0" type="curve" smooth="yes"/>
+      <point x="407.0" y="872.0"/>
+      <point x="362.0" y="916.0"/>
+      <point x="301.0" y="916.0" type="curve" smooth="yes"/>
+      <point x="240.0" y="916.0"/>
+      <point x="193.0" y="871.0"/>
+      <point x="193.0" y="814.0" type="curve" smooth="yes"/>
+      <point x="193.0" y="757.0"/>
+      <point x="240.0" y="713.0"/>
+    </contour>
+    <contour>
+      <point x="302.0" y="753.0" type="curve" smooth="yes"/>
+      <point x="267.0" y="753.0"/>
+      <point x="242.0" y="780.0"/>
+      <point x="242.0" y="815.0" type="curve" smooth="yes"/>
+      <point x="242.0" y="851.0"/>
+      <point x="267.0" y="877.0"/>
+      <point x="302.0" y="877.0" type="curve" smooth="yes"/>
+      <point x="336.0" y="877.0"/>
+      <point x="360.0" y="852.0"/>
+      <point x="360.0" y="815.0" type="curve" smooth="yes"/>
+      <point x="360.0" y="778.0"/>
+      <point x="336.0" y="753.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/12 22:54:18</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>600.0</real>
+    </dict>
+  </lib>
+</glyph>

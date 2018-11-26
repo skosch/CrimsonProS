@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.osf" format="2">
+  <advance width="501.0"/>
+  <note>
+seven.onum
+</note>
+  <outline>
+    <contour>
+      <point x="244.0" y="-220.0" type="line"/>
+      <point x="473.0" y="387.0" type="line"/>
+      <point x="469.0" y="447.0" type="line"/>
+      <point x="441.0" y="447.0"/>
+      <point x="411.0" y="446.0"/>
+      <point x="384.0" y="446.0" type="curve" smooth="yes"/>
+      <point x="172.0" y="446.0" type="line" smooth="yes"/>
+      <point x="138.0" y="446.0"/>
+      <point x="86.0" y="447.0"/>
+      <point x="53.0" y="448.0" type="curve"/>
+      <point x="38.0" y="247.0" type="line"/>
+      <point x="111.0" y="240.0" type="line"/>
+      <point x="124.0" y="315.0" type="line"/>
+      <point x="144.0" y="317.0"/>
+      <point x="172.0" y="318.0"/>
+      <point x="188.0" y="318.0" type="curve" smooth="yes"/>
+      <point x="380.0" y="318.0" type="line"/>
+      <point x="378.0" y="359.0" type="line"/>
+      <point x="117.0" y="-175.0" type="line"/>
+      <point x="117.0" y="-220.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/01 19:36:03</string>
+    </dict>
+  </lib>
+</glyph>

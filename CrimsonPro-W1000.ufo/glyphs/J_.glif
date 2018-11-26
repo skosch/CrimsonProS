@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J" format="2">
+  <advance width="374.0"/>
+  <unicode hex="004A"/>
+  <note>
+    J
+  </note>
+  <anchor x="187.0" y="587.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="277.0" y="513.0" type="curve"/>
+      <point x="342.0" y="530.0" type="line"/>
+      <point x="339.0" y="587.0" type="line"/>
+      <point x="26.0" y="587.0" type="line"/>
+      <point x="23.0" y="530.0" type="line"/>
+      <point x="95.0" y="515.0" type="line"/>
+      <point x="99.0" y="504.0"/>
+      <point x="103.0" y="425.0"/>
+      <point x="103.0" y="360.0" type="curve"/>
+      <point x="105.0" y="-18.0" type="line"/>
+      <point x="105.0" y="-95.38506844617291"/>
+      <point x="55.691322277773224" y="-151.67350166828714"/>
+      <point x="-5.725755294947817" y="-176.9227446704058" type="curve"/>
+      <point x="29.759667302624393" y="-230.83329053979446" type="line"/>
+      <point x="187.46234462201915" y="-183.6267598934552"/>
+      <point x="272.0" y="-109.1861681887367"/>
+      <point x="272.0" y="35.0" type="curve"/>
+      <point x="270.0" y="357.0" type="line"/>
+      <point x="270.0" y="430.0"/>
+      <point x="273.0" y="504.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/15 19:11:30</string>
+    </dict>
+  </lib>
+</glyph>

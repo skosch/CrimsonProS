@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon" format="2">
+  <advance width="319.0"/>
+  <unicode hex="003A"/>
+  <note>
+    colon
+  </note>
+  <outline>
+    <contour>
+      <point x="157.0" y="-10.0" type="curve" smooth="yes"/>
+      <point x="220.0" y="-10.0"/>
+      <point x="269.0" y="34.0"/>
+      <point x="269.0" y="93.0" type="curve" smooth="yes"/>
+      <point x="269.0" y="153.0"/>
+      <point x="220.0" y="200.0"/>
+      <point x="157.0" y="200.0" type="curve" smooth="yes"/>
+      <point x="96.0" y="200.0"/>
+      <point x="46.0" y="153.0"/>
+      <point x="46.0" y="93.0" type="curve" smooth="yes"/>
+      <point x="46.0" y="34.0"/>
+      <point x="96.0" y="-10.0"/>
+    </contour>
+    <contour>
+      <point x="157.0" y="246.0" type="curve" smooth="yes"/>
+      <point x="220.0" y="246.0"/>
+      <point x="269.0" y="290.0"/>
+      <point x="269.0" y="348.0" type="curve" smooth="yes"/>
+      <point x="269.0" y="409.0"/>
+      <point x="220.0" y="456.0"/>
+      <point x="157.0" y="456.0" type="curve" smooth="yes"/>
+      <point x="96.0" y="456.0"/>
+      <point x="46.0" y="409.0"/>
+      <point x="46.0" y="348.0" type="curve" smooth="yes"/>
+      <point x="46.0" y="290.0"/>
+      <point x="96.0" y="246.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>period</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>period</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/12 15:58:02</string>
+    </dict>
+  </lib>
+</glyph>

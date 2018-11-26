@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ydieresis" format="2">
+  <advance width="461.0"/>
+  <unicode hex="00FF"/>
+  <note>
+ydieresis
+</note>
+  <outline>
+    <component base="y"/>
+    <component base="dieresiscomb" xOffset="-66.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/12 15:20:00</string>
+    </dict>
+  </lib>
+</glyph>

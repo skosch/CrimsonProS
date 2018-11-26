@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colonsign" format="2">
+  <advance width="614.0"/>
+  <unicode hex="20A1"/>
+  <outline>
+    <contour>
+      <point x="267.0" y="40.0" type="line"/>
+      <point x="215.0" y="40.0" type="line"/>
+      <point x="181.0" y="-116.0" type="line"/>
+      <point x="233.0" y="-116.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="382.0" y="40.0" type="line"/>
+      <point x="330.0" y="40.0" type="line"/>
+      <point x="296.0" y="-116.0" type="line"/>
+      <point x="348.0" y="-116.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="371.0" y="-9.0" type="curve" smooth="yes"/>
+      <point x="446.0" y="-9.0"/>
+      <point x="519.0" y="14.0"/>
+      <point x="561.0" y="40.0" type="curve"/>
+      <point x="590.0" y="170.0" type="line"/>
+      <point x="530.0" y="176.0" type="line"/>
+      <point x="492.0" y="83.0" type="line"/>
+      <point x="467.0" y="63.0"/>
+      <point x="426.0" y="52.0"/>
+      <point x="390.0" y="52.0" type="curve" smooth="yes"/>
+      <point x="278.0" y="52.0"/>
+      <point x="189.0" y="147.0"/>
+      <point x="189.0" y="308.0" type="curve" smooth="yes"/>
+      <point x="189.0" y="441.0"/>
+      <point x="253.0" y="537.0"/>
+      <point x="381.0" y="537.0" type="curve" smooth="yes"/>
+      <point x="415.0" y="537.0"/>
+      <point x="451.0" y="529.0"/>
+      <point x="477.0" y="515.0" type="curve"/>
+      <point x="510.0" y="411.0" type="line"/>
+      <point x="566.0" y="415.0" type="line"/>
+      <point x="559.0" y="563.0" type="line"/>
+      <point x="515.0" y="583.0"/>
+      <point x="448.0" y="596.0"/>
+      <point x="390.0" y="596.0" type="curve" smooth="yes"/>
+      <point x="185.0" y="596.0"/>
+      <point x="47.0" y="470.0"/>
+      <point x="47.0" y="286.0" type="curve" smooth="yes"/>
+      <point x="47.0" y="95.0"/>
+      <point x="183.0" y="-9.0"/>
+    </contour>
+    <contour>
+      <point x="329.0" y="565.0" type="line"/>
+      <point x="381.0" y="565.0" type="line"/>
+      <point x="411.0" y="703.0" type="line"/>
+      <point x="359.0" y="703.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="444.0" y="565.0" type="line"/>
+      <point x="496.0" y="565.0" type="line"/>
+      <point x="526.0" y="703.0" type="line"/>
+      <point x="474.0" y="703.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>C</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>C</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/01 19:36:03</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

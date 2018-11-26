@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uogonek" format="2">
+  <advance width="733.0"/>
+  <unicode hex="0172"/>
+  <note>
+Uogonek
+</note>
+  <anchor x="402.0" y="587.0" name="top"/>
+  <anchor x="702.0" y="587.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="702.0" y="587.0" type="line"/>
+      <point x="462.0" y="587.0" type="line"/>
+      <point x="459.0" y="530.0" type="line"/>
+      <point x="529.0" y="512.0" type="line"/>
+      <point x="533.0" y="508.0"/>
+      <point x="536.0" y="423.0"/>
+      <point x="536.0" y="336.0" type="curve" smooth="yes"/>
+      <point x="536.0" y="279.0" type="line" smooth="yes"/>
+      <point x="536.0" y="160.0"/>
+      <point x="493.0" y="103.0"/>
+      <point x="403.0" y="103.0" type="curve" smooth="yes"/>
+      <point x="313.0" y="103.0"/>
+      <point x="268.0" y="164.0"/>
+      <point x="269.0" y="282.0" type="curve"/>
+      <point x="269.0" y="354.0" type="line"/>
+      <point x="269.0" y="419.0"/>
+      <point x="273.0" y="483.0"/>
+      <point x="275.0" y="512.0" type="curve"/>
+      <point x="340.0" y="530.0" type="line"/>
+      <point x="337.0" y="587.0" type="line"/>
+      <point x="32.0" y="587.0" type="line"/>
+      <point x="29.0" y="530.0" type="line"/>
+      <point x="94.0" y="512.0" type="line"/>
+      <point x="98.0" y="506.0"/>
+      <point x="101.0" y="432.0"/>
+      <point x="101.0" y="354.0" type="curve" smooth="yes"/>
+      <point x="101.0" y="262.0" type="line" smooth="yes"/>
+      <point x="101.0" y="87.0"/>
+      <point x="200.0" y="-9.0"/>
+      <point x="379.0" y="-9.0" type="curve" smooth="yes"/>
+      <point x="410.0" y="-9.0" type="line"/>
+      <point x="437.0" y="27.0" type="line"/>
+      <point x="334.0" y="-2.0"/>
+      <point x="267.0" y="-58.0"/>
+      <point x="267.0" y="-116.0" type="curve" smooth="yes"/>
+      <point x="267.0" y="-176.0"/>
+      <point x="328.0" y="-223.0"/>
+      <point x="406.0" y="-223.0" type="curve" smooth="yes"/>
+      <point x="455.0" y="-223.0"/>
+      <point x="496.0" y="-207.0"/>
+      <point x="527.0" y="-173.0" type="curve"/>
+      <point x="495.0" y="-127.0" type="line"/>
+      <point x="471.0" y="-150.0"/>
+      <point x="449.0" y="-161.0"/>
+      <point x="428.0" y="-161.0" type="curve" smooth="yes"/>
+      <point x="399.0" y="-161.0"/>
+      <point x="379.0" y="-139.0"/>
+      <point x="379.0" y="-108.0" type="curve" smooth="yes"/>
+      <point x="379.0" y="-60.0"/>
+      <point x="415.0" y="-22.0"/>
+      <point x="487.0" y="9.0" type="curve" smooth="yes"/>
+      <point x="581.0" y="49.0"/>
+      <point x="632.0" y="136.0"/>
+      <point x="632.0" y="255.0" type="curve" smooth="yes"/>
+      <point x="632.0" y="336.0" type="line" smooth="yes"/>
+      <point x="632.0" y="422.0"/>
+      <point x="635.0" y="508.0"/>
+      <point x="640.0" y="512.0" type="curve"/>
+      <point x="705.0" y="530.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>U</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>U</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/12 13:06:35</string>
+    </dict>
+  </lib>
+</glyph>

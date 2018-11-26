@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zdotbelow" format="2">
+  <advance width="492.0"/>
+  <unicode hex="1E93"/>
+  <note>
+uni1E93
+</note>
+  <outline>
+    <component base="z"/>
+    <component base="dotbelowcomb" xOffset="-54.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/11 22:28:39</string>
+    </dict>
+  </lib>
+</glyph>

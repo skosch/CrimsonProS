@@ -1,0 +1,314 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="275" maximum="900" default="275">
+      <map input="275" output="0"/>
+      <map input="300" output="88"/>
+      <map input="400" output="250"/>
+      <map input="500" output="351"/>
+      <map input="600" output="509"/>
+      <map input="700" output="675"/>
+      <map input="800" output="848"/>
+      <map input="900" output="1000"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="CrimsonPro-W0.ufo" name="CrimsonPro W0" familyname="CrimsonPro" stylename="W0">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="CrimsonPro-W500.ufo" name="CrimsonPro W500" familyname="CrimsonPro" stylename="W500">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </source>
+    <source filename="CrimsonPro-W1000.ufo" name="CrimsonPro W1000" familyname="CrimsonPro" stylename="W1000">
+      <location>
+        <dimension name="Weight" xvalue="1000"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="CrimsonPro ExtraLight" familyname="CrimsonPro" stylename="ExtraLight" filename="instance_ufos/CrimsonPro-ExtraLight.ufo">
+      <location>
+        <dimension name="Weight" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.instanceInterpolations</key>
+          <dict>
+            <key>1F9E295B-DEDB-4635-AE01-A776835412CD</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>ExtraLight</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="CrimsonPro Light" familyname="CrimsonPro" stylename="Light" filename="instance_ufos/CrimsonPro-Light.ufo">
+      <location>
+        <dimension name="Weight" xvalue="88"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.instanceInterpolations</key>
+          <dict>
+            <key>1F9E295B-DEDB-4635-AE01-A776835412CD</key>
+            <real>0.824</real>
+            <key>76B56D5A-2442-4808-93A9-707A1715678A</key>
+            <real>0.176</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Light</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="CrimsonPro Regular" familyname="CrimsonPro" stylename="Regular" filename="instance_ufos/CrimsonPro-Regular.ufo">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.instanceInterpolations</key>
+          <dict>
+            <key>1F9E295B-DEDB-4635-AE01-A776835412CD</key>
+            <real>0.578</real>
+            <key>76B56D5A-2442-4808-93A9-707A1715678A</key>
+            <real>0.422</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="CrimsonPro Medium" familyname="CrimsonPro" stylename="Medium" filename="instance_ufos/CrimsonPro-Medium.ufo">
+      <location>
+        <dimension name="Weight" xvalue="351"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.instanceInterpolations</key>
+          <dict>
+            <key>1F9E295B-DEDB-4635-AE01-A776835412CD</key>
+            <real>0.298</real>
+            <key>76B56D5A-2442-4808-93A9-707A1715678A</key>
+            <real>0.702</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Medium</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="CrimsonPro SemiBold" familyname="CrimsonPro" stylename="SemiBold" filename="instance_ufos/CrimsonPro-SemiBold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="509"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.instanceInterpolations</key>
+          <dict>
+            <key>722FC537-28B1-4F35-B842-D78FAAB5B143</key>
+            <real>0.018</real>
+            <key>76B56D5A-2442-4808-93A9-707A1715678A</key>
+            <real>0.982</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>SemiBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="CrimsonPro Bold" familyname="CrimsonPro" stylename="Bold" filename="instance_ufos/CrimsonPro-Bold.ufo" stylemapfamilyname="CrimsonPro" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="675"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.instanceInterpolations</key>
+          <dict>
+            <key>722FC537-28B1-4F35-B842-D78FAAB5B143</key>
+            <real>0.35</real>
+            <key>76B56D5A-2442-4808-93A9-707A1715678A</key>
+            <real>0.65</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Bold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="CrimsonPro ExtraBold" familyname="CrimsonPro" stylename="ExtraBold" filename="instance_ufos/CrimsonPro-ExtraBold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="848"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.instanceInterpolations</key>
+          <dict>
+            <key>722FC537-28B1-4F35-B842-D78FAAB5B143</key>
+            <real>0.696</real>
+            <key>76B56D5A-2442-4808-93A9-707A1715678A</key>
+            <real>0.304</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>ExtraBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="CrimsonPro Black" familyname="CrimsonPro" stylename="Black" filename="instance_ufos/CrimsonPro-Black.ufo">
+      <location>
+        <dimension name="Weight" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.instanceInterpolations</key>
+          <dict>
+            <key>722FC537-28B1-4F35-B842-D78FAAB5B143</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Black</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="CrimsonPro W0" familyname="CrimsonPro" stylename="W0" filename="instance_ufos/CrimsonPro-W0.ufo">
+      <location>
+        <dimension name="Weight" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <false/>
+          <key>com.schriftgestaltung.instanceInterpolations</key>
+          <dict>
+            <key>1F9E295B-DEDB-4635-AE01-A776835412CD</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>ExtraLight</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="CrimsonPro W500" familyname="CrimsonPro" stylename="W500" filename="instance_ufos/CrimsonPro-W500.ufo">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <false/>
+          <key>com.schriftgestaltung.instanceInterpolations</key>
+          <dict>
+            <key>76B56D5A-2442-4808-93A9-707A1715678A</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="CrimsonPro W1000" familyname="CrimsonPro" stylename="W1000" filename="instance_ufos/CrimsonPro-W1000.ufo">
+      <location>
+        <dimension name="Weight" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <false/>
+          <key>com.schriftgestaltung.instanceInterpolations</key>
+          <dict>
+            <key>722FC537-28B1-4F35-B842-D78FAAB5B143</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Black</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+</designspace>

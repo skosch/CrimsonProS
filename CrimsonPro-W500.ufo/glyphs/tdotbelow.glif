@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tdotbelow" format="2">
+  <advance width="359.0"/>
+  <unicode hex="1E6D"/>
+  <note>
+uni1E6D
+</note>
+  <outline>
+    <component base="t"/>
+    <component base="dotbelowcomb" xOffset="-101.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/11 19:50:15</string>
+    </dict>
+  </lib>
+</glyph>

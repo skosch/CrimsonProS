@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abrevetilde" format="2">
+  <advance width="465.0"/>
+  <unicode hex="1EB5"/>
+  <note>
+uni1EB5
+</note>
+  <outline>
+    <component base="a"/>
+    <component base="brevecomb_tildecomb" xOffset="-74.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/11 19:28:56</string>
+    </dict>
+  </lib>
+</glyph>

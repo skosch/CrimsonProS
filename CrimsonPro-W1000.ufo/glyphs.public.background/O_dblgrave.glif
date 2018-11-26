@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odblgrave" format="2">
+  <outline>
+    <component base="O"/>
+    <component base="dblgravecomb.case" xOffset="64.0" yOffset="-73.0"/>
+  </outline>
+</glyph>
