@@ -7,9 +7,9 @@ Crimson Pro S differs from Crimson Pro in a few stylistic details: sharper
 terminals, straight-legged capital R, slightly resized punctuation, recalibrated
 weight distribution.
 
-It's not better than the original Crimson Pro by @Fonthausen, it's just a little different.
+It's no better or worse than the original Crimson Pro by [@Fonthausen](https://github.com/Fonthausen), just a little different.
 
-![Waterfall Specimen](https://raw.githubusercontent.com/skosch/CrimsonProS/master/specimen/waterfall.png | width=1000)
+<img src="https://raw.githubusercontent.com/skosch/CrimsonProS/master/specimen/waterfall.png" width="1011">
 
 ## Building the weight instances
 
