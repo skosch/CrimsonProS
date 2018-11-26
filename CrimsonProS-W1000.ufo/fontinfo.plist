@@ -7,11 +7,11 @@
 	<key>capHeight</key>
 	<real>587.0</real>
 	<key>copyright</key>
-	<string>Copyright © 2018 by Jacques Le Bailly, with reserved Font Name "CrimsonPro". (fonthausen@baronvonfonthausen.com)</string>
+	<string>Copyright © 2018 by Jacques Le Bailly and Sebastian Kosch, with reserved Font Name "CrimsonProS".</string>
 	<key>descender</key>
 	<real>-220.0</real>
 	<key>familyName</key>
-	<string>CrimsonPro</string>
+	<string>CrimsonProS</string>
 	<key>guidelines</key>
 	<array>
 		<dict>
@@ -21,6 +21,14 @@
 			<real>320.0</real>
 			<key>y</key>
 			<real>46.0</real>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>0.0</real>
+			<key>x</key>
+			<real>355.0</real>
+			<key>y</key>
+			<real>843.0</real>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -49,6 +57,8 @@
 	</array>
 	<key>italicAngle</key>
 	<real>-0.0</real>
+	<key>note</key>
+	<string></string>
 	<key>openTypeHeadCreated</key>
 	<string>2018/11/08 10:12:10</string>
 	<key>openTypeHheaAscender</key>
@@ -58,17 +68,17 @@
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
 	<key>openTypeNameDesigner</key>
-	<string>Jacques Le Bailly</string>
+	<string>Jacques Le Bailly, Sebastian Kosch</string>
 	<key>openTypeNameDesignerURL</key>
-	<string>http://www.baronvonfonthausen.com/</string>
+	<string>http://www.baronvonfonthausen.com/, https://www.aldusleaf.org</string>
 	<key>openTypeNameLicense</key>
 	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNameManufacturer</key>
-	<string>Baron von Fonthausen</string>
+	<string>Multiple</string>
 	<key>openTypeNameManufacturerURL</key>
-	<string>http://www.baronvonfonthausen.com/</string>
+	<string></string>
 	<key>openTypeOS2Selection</key>
 	<array>
 		<integer>7</integer>
@@ -89,16 +99,16 @@
 	<integer>295</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<real>-18.0</real>
+		<real>-23.0</real>
 		<real>0.0</real>
-		<real>436.0</real>
-		<real>454.0</real>
+		<real>446.0</real>
+		<real>469.0</real>
 		<real>587.0</real>
-		<real>605.0</real>
+		<real>610.0</real>
 		<real>660.0</real>
-		<real>678.0</real>
+		<real>683.0</real>
 		<real>688.0</real>
-		<real>706.0</real>
+		<real>711.0</real>
 	</array>
 	<key>postscriptFamilyBlues</key>
 	<array/>
@@ -106,29 +116,31 @@
 	<array/>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<real>-238.0</real>
+		<real>-243.0</real>
 		<real>-220.0</real>
 	</array>
 	<key>postscriptStemSnapH</key>
 	<array>
-		<integer>55</integer>
-		<integer>60</integer>
-		<integer>83</integer>
-		<integer>55</integer>
+		<integer>65</integer>
+		<integer>77</integer>
+		<integer>113</integer>
+		<integer>70</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>118</integer>
-		<integer>141</integer>
-		<integer>112</integer>
-		<integer>124</integer>
+		<integer>167</integer>
+		<integer>193</integer>
+		<integer>164</integer>
+		<integer>175</integer>
 	</array>
 	<key>postscriptUnderlinePosition</key>
 	<integer>-100</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>50</integer>
 	<key>styleName</key>
-	<string>W500</string>
+	<string>W1000</string>
+	<key>trademark</key>
+	<string></string>
 	<key>unitsPerEm</key>
 	<integer>1024</integer>
 	<key>versionMajor</key>
@@ -136,6 +148,6 @@
 	<key>versionMinor</key>
 	<integer>0</integer>
 	<key>xHeight</key>
-	<real>436.0</real>
+	<real>446.0</real>
 </dict>
 </plist>

@@ -13,7 +13,7 @@
     </axis>
   </axes>
   <sources>
-    <source filename="CrimsonPro-W0.ufo" name="CrimsonPro W0" familyname="CrimsonPro" stylename="W0">
+    <source filename="CrimsonProS-W0.ufo" name="CrimsonProS W0" familyname="CrimsonProS" stylename="W0">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -22,19 +22,19 @@
         <dimension name="Weight" xvalue="0"/>
       </location>
     </source>
-    <source filename="CrimsonPro-W500.ufo" name="CrimsonPro W500" familyname="CrimsonPro" stylename="W500">
+    <source filename="CrimsonProS-W500.ufo" name="CrimsonProS W500" familyname="CrimsonProS" stylename="W500">
       <location>
         <dimension name="Weight" xvalue="500"/>
       </location>
     </source>
-    <source filename="CrimsonPro-W1000.ufo" name="CrimsonPro W1000" familyname="CrimsonPro" stylename="W1000">
+    <source filename="CrimsonProS-W1000.ufo" name="CrimsonProS W1000" familyname="CrimsonProS" stylename="W1000">
       <location>
         <dimension name="Weight" xvalue="1000"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance name="CrimsonPro ExtraLight" familyname="CrimsonPro" stylename="ExtraLight" filename="instance_ufos/CrimsonPro-ExtraLight.ufo">
+    <instance name="CrimsonProS Thin" familyname="CrimsonProS" stylename="Thin" filename="instance_ufos/CrimsonProS-Thin.ufo">
       <location>
         <dimension name="Weight" xvalue="0"/>
       </location>
@@ -58,7 +58,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="CrimsonPro Light" familyname="CrimsonPro" stylename="Light" filename="instance_ufos/CrimsonPro-Light.ufo">
+    <instance name="CrimsonProS ExtraLight" familyname="CrimsonProS" stylename="ExtraLight" filename="instance_ufos/CrimsonProS-ExtraLight.ufo">
       <location>
         <dimension name="Weight" xvalue="88"/>
       </location>
@@ -84,9 +84,9 @@
         </dict>
       </lib>
     </instance>
-    <instance name="CrimsonPro Regular" familyname="CrimsonPro" stylename="Regular" filename="instance_ufos/CrimsonPro-Regular.ufo">
+    <instance name="CrimsonProS Light" familyname="CrimsonProS" stylename="Light" filename="instance_ufos/CrimsonProS-Light.ufo">
       <location>
-        <dimension name="Weight" xvalue="200"/>
+        <dimension name="Weight" xvalue="110"/>
       </location>
       <kerning/>
       <info/>
@@ -110,9 +110,35 @@
         </dict>
       </lib>
     </instance>
-    <instance name="CrimsonPro Medium" familyname="CrimsonPro" stylename="Medium" filename="instance_ufos/CrimsonPro-Medium.ufo">
+    <instance name="CrimsonProS Regular" familyname="CrimsonProS" stylename="Regular" filename="instance_ufos/CrimsonProS-Regular.ufo">
       <location>
-        <dimension name="Weight" xvalue="351"/>
+        <dimension name="Weight" xvalue="185"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.instanceInterpolations</key>
+          <dict>
+            <key>1F9E295B-DEDB-4635-AE01-A776835412CD</key>
+            <real>0.578</real>
+            <key>76B56D5A-2442-4808-93A9-707A1715678A</key>
+            <real>0.422</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="CrimsonProS Medium" familyname="CrimsonProS" stylename="Medium" filename="instance_ufos/CrimsonProS-Medium.ufo">
+      <location>
+        <dimension name="Weight" xvalue="238"/>
       </location>
       <kerning/>
       <info/>
@@ -136,9 +162,9 @@
         </dict>
       </lib>
     </instance>
-    <instance name="CrimsonPro SemiBold" familyname="CrimsonPro" stylename="SemiBold" filename="instance_ufos/CrimsonPro-SemiBold.ufo">
+    <instance name="CrimsonProS SemiBold" familyname="CrimsonProS" stylename="SemiBold" filename="instance_ufos/CrimsonProS-SemiBold.ufo">
       <location>
-        <dimension name="Weight" xvalue="509"/>
+        <dimension name="Weight" xvalue="469"/>
       </location>
       <kerning/>
       <info/>
@@ -162,7 +188,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="CrimsonPro Bold" familyname="CrimsonPro" stylename="Bold" filename="instance_ufos/CrimsonPro-Bold.ufo" stylemapfamilyname="CrimsonPro" stylemapstylename="bold">
+    <instance name="CrimsonProS Bold" familyname="CrimsonProS" stylename="Bold" filename="instance_ufos/CrimsonProS-Bold.ufo" stylemapfamilyname="CrimsonProS" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="675"/>
       </location>
@@ -188,7 +214,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="CrimsonPro ExtraBold" familyname="CrimsonPro" stylename="ExtraBold" filename="instance_ufos/CrimsonPro-ExtraBold.ufo">
+    <instance name="CrimsonProS ExtraBold" familyname="CrimsonProS" stylename="ExtraBold" filename="instance_ufos/CrimsonProS-ExtraBold.ufo">
       <location>
         <dimension name="Weight" xvalue="848"/>
       </location>
@@ -214,7 +240,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="CrimsonPro Black" familyname="CrimsonPro" stylename="Black" filename="instance_ufos/CrimsonPro-Black.ufo">
+    <instance name="CrimsonProS Black" familyname="CrimsonProS" stylename="Black" filename="instance_ufos/CrimsonProS-Black.ufo">
       <location>
         <dimension name="Weight" xvalue="1000"/>
       </location>
@@ -238,7 +264,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="CrimsonPro W0" familyname="CrimsonPro" stylename="W0" filename="instance_ufos/CrimsonPro-W0.ufo">
+    <instance name="CrimsonProS W0" familyname="CrimsonProS" stylename="W0" filename="instance_ufos/CrimsonProS-W0.ufo">
       <location>
         <dimension name="Weight" xvalue="0"/>
       </location>
@@ -262,7 +288,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="CrimsonPro W500" familyname="CrimsonPro" stylename="W500" filename="instance_ufos/CrimsonPro-W500.ufo">
+    <instance name="CrimsonProS W500" familyname="CrimsonProS" stylename="W500" filename="instance_ufos/CrimsonProS-W500.ufo">
       <location>
         <dimension name="Weight" xvalue="500"/>
       </location>
@@ -286,7 +312,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="CrimsonPro W1000" familyname="CrimsonPro" stylename="W1000" filename="instance_ufos/CrimsonPro-W1000.ufo">
+    <instance name="CrimsonProS W1000" familyname="CrimsonProS" stylename="W1000" filename="instance_ufos/CrimsonProS-W1000.ufo">
       <location>
         <dimension name="Weight" xvalue="1000"/>
       </location>
