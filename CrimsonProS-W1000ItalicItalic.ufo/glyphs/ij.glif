@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ij" format="2">
+  <advance width="659.0"/>
+  <unicode hex="0133"/>
+  <note>
+ij
+</note>
+  <outline>
+    <component base="i"/>
+    <component base="j.alt" xOffset="337.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/14 23:52:25</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j" format="2">
+  <advance width="322.0"/>
+  <unicode hex="006A"/>
+  <note>
+j
+</note>
+  <outline>
+    <component base="jdotless"/>
+    <component base="dotaccentcomb.i" xOffset="-142.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>jdotless</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>jdotless</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/15 21:37:39</string>
+    </dict>
+  </lib>
+</glyph>

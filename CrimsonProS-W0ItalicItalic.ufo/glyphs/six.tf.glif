@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six.tf" format="2">
+  <advance width="540.0"/>
+  <note>
+six
+</note>
+  <outline>
+    <contour>
+      <point x="146.0" y="238.0" type="curve"/>
+      <point x="147.0" y="208.0" type="line"/>
+      <point x="185.0" y="256.0"/>
+      <point x="234.0" y="285.0"/>
+      <point x="283.0" y="285.0" type="curve" smooth="yes"/>
+      <point x="349.0" y="285.0"/>
+      <point x="395.0" y="240.0"/>
+      <point x="395.0" y="178.0" type="curve" smooth="yes"/>
+      <point x="395.0" y="90.0"/>
+      <point x="345.0" y="31.0"/>
+      <point x="265.0" y="31.0" type="curve" smooth="yes"/>
+      <point x="193.0" y="31.0"/>
+      <point x="153.0" y="85.0"/>
+      <point x="153.0" y="166.0" type="curve" smooth="yes"/>
+      <point x="153.0" y="344.0"/>
+      <point x="296.0" y="521.0"/>
+      <point x="512.0" y="568.0" type="curve"/>
+      <point x="502.0" y="605.0" type="line"/>
+      <point x="263.0" y="559.0"/>
+      <point x="83.0" y="369.0"/>
+      <point x="83.0" y="165.0" type="curve" smooth="yes"/>
+      <point x="83.0" y="64.0"/>
+      <point x="151.0" y="-9.0"/>
+      <point x="258.0" y="-9.0" type="curve" smooth="yes"/>
+      <point x="377.0" y="-9.0"/>
+      <point x="463.0" y="86.0"/>
+      <point x="463.0" y="189.0" type="curve" smooth="yes"/>
+      <point x="463.0" y="273.0"/>
+      <point x="398.0" y="336.0"/>
+      <point x="312.0" y="336.0" type="curve" smooth="yes"/>
+      <point x="248.0" y="336.0"/>
+      <point x="195.0" y="309.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/10/15 14:27:20</string>
+    </dict>
+  </lib>
+</glyph>

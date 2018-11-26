@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="2">
+  <advance width="363.0"/>
+  <unicode hex="002D"/>
+  <note>
+    hyphen
+  </note>
+  <outline>
+    <contour>
+      <point x="82.0" y="180.0" type="line"/>
+      <point x="281.0" y="207.0" type="line"/>
+      <point x="281.0" y="260.0" type="line"/>
+      <point x="82.0" y="234.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/01 19:36:03</string>
+    </dict>
+  </lib>
+</glyph>

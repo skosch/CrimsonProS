@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zeroinferior" format="2">
+  <outline>
+    <contour>
+      <point x="159.446" y="-6.0" type="curve" smooth="yes"/>
+      <point x="282.089" y="-6.0"/>
+      <point x="373.196" y="123.107"/>
+      <point x="373.196" y="255.554" type="curve" smooth="yes"/>
+      <point x="373.196" y="344.107"/>
+      <point x="324.536" y="394.0"/>
+      <point x="237.786" y="394.0" type="curve" smooth="yes"/>
+      <point x="106.696" y="394.0"/>
+      <point x="18.25" y="272.875"/>
+      <point x="18.25" y="138.554" type="curve" smooth="yes"/>
+      <point x="18.25" y="48.0"/>
+      <point x="69.804" y="-6.0"/>
+    </contour>
+    <contour>
+      <point x="172.107" y="44.196" type="curve" smooth="yes"/>
+      <point x="142.411" y="44.196"/>
+      <point x="126.5" y="74.875"/>
+      <point x="126.5" y="128.018" type="curve" smooth="yes"/>
+      <point x="126.5" y="206.286"/>
+      <point x="161.304" y="347.911"/>
+      <point x="225.679" y="347.911" type="curve" smooth="yes"/>
+      <point x="252.375" y="347.911"/>
+      <point x="266.393" y="321.0"/>
+      <point x="266.393" y="272.411" type="curve" smooth="yes"/>
+      <point x="266.393" y="197.143"/>
+      <point x="235.375" y="44.196"/>
+    </contour>
+  </outline>
+</glyph>

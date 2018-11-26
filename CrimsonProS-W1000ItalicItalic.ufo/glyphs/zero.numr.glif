@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.numr" format="2">
+  <advance width="400.0"/>
+  <note>
+uni2080
+</note>
+  <outline>
+    <contour>
+      <point x="200.0" y="193.0" type="curve" smooth="yes"/>
+      <point x="335.0" y="193.0"/>
+      <point x="428.0" y="324.0"/>
+      <point x="428.0" y="456.0" type="curve" smooth="yes"/>
+      <point x="428.0" y="545.0"/>
+      <point x="377.0" y="593.0"/>
+      <point x="276.0" y="593.0" type="curve" smooth="yes"/>
+      <point x="133.0" y="593.0"/>
+      <point x="46.0" y="479.0"/>
+      <point x="46.0" y="339.0" type="curve" smooth="yes"/>
+      <point x="46.0" y="247.0"/>
+      <point x="99.0" y="193.0"/>
+    </contour>
+    <contour>
+      <point x="218.0" y="256.0" type="curve" smooth="yes"/>
+      <point x="199.0" y="256.0"/>
+      <point x="194.0" y="281.0"/>
+      <point x="194.0" y="318.0" type="curve" smooth="yes"/>
+      <point x="194.0" y="373.0"/>
+      <point x="213.0" y="536.0"/>
+      <point x="260.0" y="536.0" type="curve" smooth="yes"/>
+      <point x="277.0" y="536.0"/>
+      <point x="282.0" y="520.0"/>
+      <point x="282.0" y="489.0" type="curve" smooth="yes"/>
+      <point x="282.0" y="437.0"/>
+      <point x="264.0" y="256.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/10/12 10:39:55</string>
+    </dict>
+  </lib>
+</glyph>

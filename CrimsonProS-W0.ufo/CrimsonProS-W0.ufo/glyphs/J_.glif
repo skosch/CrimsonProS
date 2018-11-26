@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J" format="2">
+  <advance width="295.0"/>
+  <unicode hex="004A"/>
+  <note>
+    J
+  </note>
+  <anchor x="148.0" y="587.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="183.0" y="542.0" type="curve"/>
+      <point x="243.0" y="555.0" type="line"/>
+      <point x="241.0" y="587.0" type="line"/>
+      <point x="49.0" y="587.0" type="line"/>
+      <point x="47.0" y="555.0" type="line"/>
+      <point x="114.0" y="541.0" type="line"/>
+      <point x="116.0" y="530.0"/>
+      <point x="117.0" y="488.0"/>
+      <point x="117.0" y="395.0" type="curve"/>
+      <point x="116.0" y="-1.0" type="line"/>
+      <point x="116.0" y="-116.94928679392842"/>
+      <point x="64.56267792716653" y="-183.2797305724671"/>
+      <point x="0.6889172515363953" y="-203.75208976337422" type="curve"/>
+      <point x="16.247910236625785" y="-232.413392630644" type="line"/>
+      <point x="122.70417802934253" y="-200.47651229282906"/>
+      <point x="179.0" y="-111.21702622047428"/>
+      <point x="179.0" y="22.0" type="curve"/>
+      <point x="178.0" y="396.0" type="line"/>
+      <point x="178.0" y="499.0"/>
+      <point x="180.0" y="535.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/15 19:11:30</string>
+    </dict>
+  </lib>
+</glyph>

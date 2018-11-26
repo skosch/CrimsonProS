@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdown" format="2">
+  <advance width="283.0"/>
+  <unicode hex="00A1"/>
+  <note>
+exclamdown
+</note>
+  <outline>
+    <contour>
+      <point x="166.0" y="217.0" type="line"/>
+      <point x="119.0" y="227.0" type="line"/>
+      <point x="-10.0" y="-111.0" type="line" smooth="yes"/>
+      <point x="-36.0" y="-176.0"/>
+      <point x="-13.0" y="-228.0"/>
+      <point x="45.0" y="-228.0" type="curve" smooth="yes"/>
+      <point x="97.0" y="-228.0"/>
+      <point x="132.0" y="-185.0"/>
+      <point x="136.0" y="-120.0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="170.0" y="444.0" type="curve" smooth="yes"/>
+      <point x="125.0" y="444.0"/>
+      <point x="89.0" y="410.0"/>
+      <point x="89.0" y="365.0" type="curve" smooth="yes"/>
+      <point x="89.0" y="320.0"/>
+      <point x="125.0" y="286.0"/>
+      <point x="170.0" y="286.0" type="curve" smooth="yes"/>
+      <point x="215.0" y="286.0"/>
+      <point x="251.0" y="320.0"/>
+      <point x="251.0" y="365.0" type="curve" smooth="yes"/>
+      <point x="251.0" y="409.0"/>
+      <point x="215.0" y="444.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|exclam</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>exclam</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/10/12 10:39:55</string>
+    </dict>
+  </lib>
+</glyph>

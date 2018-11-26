@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="verticallinemod" format="2">
+  <anchor x="300.0" y="425.357" name="_top"/>
+  <anchor x="300.0" y="687.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="277.179" y="525.357" type="line"/>
+      <point x="323.821" y="525.357" type="line"/>
+      <point x="323.821" y="645.357" type="line"/>
+      <point x="277.179" y="645.357" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="radical" format="2">
+  <advance width="678.0"/>
+  <unicode hex="221A"/>
+  <note>
+radical
+</note>
+  <outline>
+    <contour>
+      <point x="260.0" y="-94.0" type="line"/>
+      <point x="319.0" y="-94.0" type="line"/>
+      <point x="782.0" y="688.0" type="line"/>
+      <point x="683.0" y="688.0" type="line"/>
+      <point x="349.0" y="80.0" type="line"/>
+      <point x="390.0" y="79.0" type="line"/>
+      <point x="328.0" y="370.0" type="line" smooth="yes"/>
+      <point x="321.0" y="403.0"/>
+      <point x="317.0" y="423.0"/>
+      <point x="314.0" y="448.0" type="curve"/>
+      <point x="90.0" y="445.0" type="line"/>
+      <point x="75.0" y="388.0" type="line"/>
+      <point x="137.0" y="373.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/10/12 10:39:55</string>
+    </dict>
+  </lib>
+</glyph>

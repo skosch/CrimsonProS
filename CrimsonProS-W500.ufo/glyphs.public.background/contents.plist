@@ -236,6 +236,8 @@
 	<string>firsttonechinese.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
+	<key>five.numr</key>
+	<string>five.numr.glif</string>
 	<key>five.osf</key>
 	<string>five.osf.glif</string>
 	<key>five.tf</key>
@@ -480,12 +482,16 @@
 	<string>thorn.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
+	<key>three.numr</key>
+	<string>three.numr.glif</string>
 	<key>three.osf</key>
 	<string>three.osf.glif</string>
 	<key>three.tf</key>
 	<string>three.tf.glif</string>
 	<key>three.tosf</key>
 	<string>three.tosf.glif</string>
+	<key>threeinferior</key>
+	<string>threeinferior.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
 	<key>tildecomb</key>

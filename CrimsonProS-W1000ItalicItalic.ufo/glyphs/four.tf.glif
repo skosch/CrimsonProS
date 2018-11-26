@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.tf" format="2">
+  <advance width="540.0"/>
+  <note>
+four
+</note>
+  <outline>
+    <contour>
+      <point x="421.0" y="139.0" type="curve"/>
+      <point x="478.0" y="411.0" type="line" smooth="yes"/>
+      <point x="492.0" y="477.0"/>
+      <point x="509.0" y="543.0"/>
+      <point x="523.0" y="591.0" type="curve"/>
+      <point x="421.0" y="591.0" type="line"/>
+      <point x="4.0" y="193.0" type="line"/>
+      <point x="2.0" y="139.0" type="line"/>
+      <point x="504.0" y="139.0" type="line"/>
+      <point x="525.0" y="238.0" type="line"/>
+      <point x="128.0" y="238.0" type="line"/>
+      <point x="136.0" y="217.0" type="line"/>
+      <point x="333.0" y="428.0" type="line"/>
+      <point x="321.0" y="432.0" type="line"/>
+      <point x="257.0" y="139.0" type="line"/>
+      <point x="248.0" y="103.0"/>
+      <point x="245.0" y="87.0"/>
+      <point x="241.0" y="76.0" type="curve"/>
+      <point x="149.0" y="57.0" type="line"/>
+      <point x="140.0" y="0.0" type="line"/>
+      <point x="458.0" y="0.0" type="line"/>
+      <point x="473.0" y="57.0" type="line"/>
+      <point x="409.0" y="76.0" type="line"/>
+      <point x="410.0" y="87.0"/>
+      <point x="413.0" y="102.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/10/15 14:27:20</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minute" format="2">
+  <outline>
+    <contour>
+      <point x="191.679" y="641.429" type="curve" smooth="yes"/>
+      <point x="164.571" y="641.429"/>
+      <point x="146.607" y="625.393"/>
+      <point x="139.0" y="589.429" type="curve" smooth="yes"/>
+      <point x="134.857" y="571.714"/>
+      <point x="134.607" y="465.571"/>
+      <point x="134.214" y="419.857" type="curve"/>
+      <point x="162.643" y="419.857" type="line"/>
+      <point x="181.071" y="465.571"/>
+      <point x="220.321" y="545.393"/>
+      <point x="227.929" y="579.429" type="curve" smooth="yes"/>
+      <point x="237.536" y="625.393"/>
+      <point x="216.857" y="641.429"/>
+    </contour>
+  </outline>
+</glyph>

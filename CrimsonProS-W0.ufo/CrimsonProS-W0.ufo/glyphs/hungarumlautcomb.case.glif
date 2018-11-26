@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlautcomb.case" format="2">
+  <note>
+    uni030B.cap
+  </note>
+  <anchor x="300.0" y="660.0" name="_top"/>
+  <anchor x="300.0" y="882.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="368.0" y="713.0" type="line"/>
+      <point x="451.0" y="832.0" type="line"/>
+      <point x="390.0" y="845.0" type="line"/>
+      <point x="344.0" y="723.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="256.0" y="713.0" type="line"/>
+      <point x="339.0" y="832.0" type="line"/>
+      <point x="278.0" y="845.0" type="line"/>
+      <point x="232.0" y="723.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/12 22:54:18</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>600.0</real>
+    </dict>
+  </lib>
+</glyph>

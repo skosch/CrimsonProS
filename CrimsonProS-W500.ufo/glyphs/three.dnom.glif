@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="three.dnom" format="2">
   <advance width="400.0"/>
   <note>
-uni2083
-</note>
+    uni2083
+  </note>
   <outline>
     <contour>
       <point x="208.0" y="213.0" type="curve"/>
@@ -35,17 +35,21 @@ uni2083
       <point x="244.0" y="145.0"/>
       <point x="244.0" y="104.0" type="curve" smooth="yes"/>
       <point x="244.0" y="57.0"/>
-      <point x="201.0" y="32.0"/>
-      <point x="152.0" y="44.0" type="curve"/>
-      <point x="178.0" y="32.0" type="line"/>
-      <point x="127.0" y="74.0" type="line" smooth="yes"/>
-      <point x="106.0" y="92.0"/>
-      <point x="96.0" y="97.0"/>
-      <point x="81.0" y="97.0" type="curve" smooth="yes"/>
-      <point x="59.0" y="97.0"/>
-      <point x="43.0" y="80.0"/>
-      <point x="43.0" y="58.0" type="curve" smooth="yes"/>
-      <point x="43.0" y="21.0"/>
+      <point x="205.6504590978509" y="41.10942505655089"/>
+      <point x="173.89512680005123" y="41.10942505655089" type="curve" smooth="yes"/>
+      <point x="167.9464811042451" y="41.10942505655089"/>
+      <point x="159.59074316311762" y="41.71642911022968"/>
+      <point x="153.26591374934787" y="44.213694410536164" type="curve"/>
+      <point x="135.41591374934788" y="58.913694410536166"/>
+      <point x="115.73859256097921" y="82.19533735835807"/>
+      <point x="104.04055944340075" y="98.34976404453755" type="curve"/>
+      <point x="99.0271166787245" y="101.69205922098854"/>
+      <point x="91.90435870650754" y="102.43479148242182"/>
+      <point x="86.80298154263073" y="102.43479148242182" type="curve" smooth="yes"/>
+      <point x="64.80298154263113" y="102.43479148242182"/>
+      <point x="41.681996660543064" y="84.8842985610858"/>
+      <point x="41.681996660543064" y="62.88429856108564" type="curve" smooth="yes"/>
+      <point x="41.681996660543064" y="20.548559659373723"/>
       <point x="94.0" y="-6.0"/>
       <point x="161.0" y="-6.0" type="curve" smooth="yes"/>
       <point x="267.0" y="-6.0"/>

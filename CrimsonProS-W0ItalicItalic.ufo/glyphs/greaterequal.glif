@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greaterequal" format="2">
+  <advance width="540.0"/>
+  <unicode hex="2265"/>
+  <outline>
+    <contour>
+      <point x="497.0" y="263.0" type="line"/>
+      <point x="509.0" y="317.0" type="line"/>
+      <point x="110.0" y="478.0" type="line"/>
+      <point x="98.0" y="423.0" type="line"/>
+      <point x="472.0" y="277.0" type="line"/>
+      <point x="479.0" y="311.0" type="line"/>
+      <point x="43.0" y="165.0" type="line"/>
+      <point x="30.0" y="103.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="454.0" y="53.0" type="line"/>
+      <point x="20.0" y="53.0" type="line"/>
+      <point x="9.0" y="0.0" type="line"/>
+      <point x="443.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/10/12 10:39:55</string>
+    </dict>
+  </lib>
+</glyph>

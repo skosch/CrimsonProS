@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <anchor x="417.0" y="0.0" name="bottom"/>
+  <anchor x="542.0" y="587.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="536.0" y="462.0" type="line"/>
+      <point x="525.0" y="534.0" type="line"/>
+      <point x="262.0" y="83.0" type="line"/>
+      <point x="274.0" y="83.0" type="line"/>
+      <point x="206.0" y="543.0" type="line"/>
+      <point x="260.0" y="555.0" type="line"/>
+      <point x="265.0" y="587.0" type="line"/>
+      <point x="93.0" y="587.0" type="line"/>
+      <point x="85.0" y="555.0" type="line"/>
+      <point x="132.0" y="542.0" type="line"/>
+      <point x="216.0" y="-3.0" type="line"/>
+      <point x="254.0" y="-3.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="573.0" y="-3.0" type="line"/>
+      <point x="611.0" y="-3.0" type="line"/>
+      <point x="937.0" y="542.0" type="line"/>
+      <point x="989.0" y="555.0" type="line"/>
+      <point x="994.0" y="587.0" type="line"/>
+      <point x="817.0" y="587.0" type="line"/>
+      <point x="809.0" y="555.0" type="line"/>
+      <point x="877.0" y="542.0" type="line"/>
+      <point x="615.0" y="83.0" type="line"/>
+      <point x="631.0" y="83.0" type="line"/>
+      <point x="567.0" y="543.0" type="line"/>
+      <point x="629.0" y="555.0" type="line"/>
+      <point x="634.0" y="587.0" type="line"/>
+      <point x="455.0" y="587.0" type="line"/>
+      <point x="447.0" y="555.0" type="line"/>
+      <point x="494.0" y="542.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

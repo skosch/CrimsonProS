@@ -164,7 +164,7 @@
     </instance>
     <instance name="CrimsonProS SemiBold" familyname="CrimsonProS" stylename="SemiBold" filename="instance_ufos/CrimsonProS-SemiBold.ufo">
       <location>
-        <dimension name="Weight" xvalue="469"/>
+        <dimension name="Weight" xvalue="429"/>
       </location>
       <kerning/>
       <info/>

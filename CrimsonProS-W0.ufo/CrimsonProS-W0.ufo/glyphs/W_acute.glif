@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wacute" format="2">
+  <advance width="925.0"/>
+  <unicode hex="1E82"/>
+  <note>
+    Wacute
+  </note>
+  <outline>
+    <component base="W"/>
+    <component base="acutecomb.case" xOffset="162.0" yOffset="-73.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/01 19:36:03</string>
+    </dict>
+  </lib>
+</glyph>

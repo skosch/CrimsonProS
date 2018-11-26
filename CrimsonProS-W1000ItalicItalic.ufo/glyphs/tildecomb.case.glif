@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb.case" format="2">
+  <note>
+tildecomb.cap
+</note>
+  <anchor x="394.0" y="660.0" name="_top"/>
+  <anchor x="437.0" y="861.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="607.0" y="856.0" type="line"/>
+      <point x="580.0" y="826.0"/>
+      <point x="555.0" y="815.0"/>
+      <point x="528.0" y="815.0" type="curve" smooth="yes"/>
+      <point x="485.0" y="815.0"/>
+      <point x="396.0" y="855.0"/>
+      <point x="349.0" y="855.0" type="curve" smooth="yes"/>
+      <point x="281.0" y="855.0"/>
+      <point x="220.0" y="813.0"/>
+      <point x="186.0" y="743.0" type="curve"/>
+      <point x="232.0" y="708.0" type="line"/>
+      <point x="260.0" y="738.0"/>
+      <point x="285.0" y="749.0"/>
+      <point x="311.0" y="749.0" type="curve" smooth="yes"/>
+      <point x="355.0" y="749.0"/>
+      <point x="441.0" y="710.0"/>
+      <point x="488.0" y="710.0" type="curve" smooth="yes"/>
+      <point x="556.0" y="710.0"/>
+      <point x="618.0" y="751.0"/>
+      <point x="652.0" y="820.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/10/12 10:39:55</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>600.0</real>
+    </dict>
+  </lib>
+</glyph>

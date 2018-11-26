@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered.loclCAT.case" format="2">
+  <anchor x="300.0" y="220.857" name="_dotacc"/>
+  <outline>
+    <contour>
+      <point x="301.0" y="134.286" type="curve" smooth="yes"/>
+      <point x="360.857" y="134.286"/>
+      <point x="391.714" y="176.714"/>
+      <point x="391.714" y="220.857" type="curve" smooth="yes"/>
+      <point x="391.714" y="265.571"/>
+      <point x="360.857" y="307.429"/>
+      <point x="301.0" y="307.429" type="curve" smooth="yes"/>
+      <point x="240.143" y="307.429"/>
+      <point x="208.286" y="265.571"/>
+      <point x="208.286" y="220.857" type="curve" smooth="yes"/>
+      <point x="208.286" y="176.714"/>
+      <point x="240.143" y="134.286"/>
+    </contour>
+  </outline>
+</glyph>

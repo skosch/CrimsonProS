@@ -1,11 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sterling" format="2">
   <advance width="532.0"/>
   <unicode hex="00A3"/>
   <note>
-sterling
-</note>
+    sterling
+  </note>
   <outline>
+    <contour>
+      <point x="24.0" y="276.0" type="line"/>
+      <point x="407.0" y="276.0" type="line"/>
+      <point x="407.0" y="331.0" type="line"/>
+      <point x="24.0" y="331.0" type="line"/>
+    </contour>
     <contour>
       <point x="52.0" y="-11.0" type="line"/>
       <point x="123.0" y="12.0"/>
@@ -35,14 +41,18 @@ sterling
       <point x="211.0" y="389.0"/>
       <point x="211.0" y="452.0" type="curve" smooth="yes"/>
       <point x="211.0" y="517.0"/>
-      <point x="259.0" y="551.0"/>
-      <point x="335.0" y="542.0" type="curve"/>
-      <point x="284.0" y="573.0" type="line"/>
-      <point x="373.0" y="490.0" type="line" smooth="yes"/>
-      <point x="394.0" y="469.0"/>
-      <point x="410.0" y="462.0"/>
-      <point x="435.0" y="462.0" type="curve" smooth="yes"/>
-      <point x="464.0" y="462.0"/>
+      <point x="258.6282876294879" y="541.7290098435033"/>
+      <point x="300.6994281630641" y="541.7290098435033" type="curve" smooth="yes"/>
+      <point x="322.62448401265493" y="541.7290098435033"/>
+      <point x="338.8837167592669" y="535.4272270044758"/>
+      <point x="351.16751431905993" y="525.5940193001272" type="curve" smooth="yes"/>
+      <point x="369.13304278655926" y="511.2125731651352"/>
+      <point x="378.5950388727169" y="489.2773412725238"/>
+      <point x="384.84170923021657" y="468.4551067475247" type="curve"/>
+      <point x="397.46305139028937" y="464.2479926941671"/>
+      <point x="409.7102857453108" y="461.4432499919287"/>
+      <point x="429.7175924660312" y="461.4432499919287" type="curve" smooth="yes"/>
+      <point x="464.0756905684518" y="461.4432499919287"/>
       <point x="483.0" y="483.0"/>
       <point x="483.0" y="510.0" type="curve" smooth="yes"/>
       <point x="483.0" y="562.0"/>
@@ -57,12 +67,6 @@ sterling
       <point x="150.0" y="92.0"/>
       <point x="122.0" y="61.0"/>
       <point x="40.0" y="39.0" type="curve"/>
-    </contour>
-    <contour>
-      <point x="24.0" y="276.0" type="line"/>
-      <point x="407.0" y="276.0" type="line"/>
-      <point x="407.0" y="331.0" type="line"/>
-      <point x="24.0" y="331.0" type="line"/>
     </contour>
   </outline>
   <lib>

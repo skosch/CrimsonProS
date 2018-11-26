@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb_macroncomb.case" format="2">
+  <advance width="600.0"/>
+  <anchor x="394.0" y="660.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="242.0" y="884.0" type="line"/>
+      <point x="639.0" y="884.0" type="line"/>
+      <point x="656.0" y="967.0" type="line"/>
+      <point x="258.0" y="967.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="413.0" y="706.0" type="curve" smooth="yes"/>
+      <point x="468.0" y="706.0"/>
+      <point x="502.0" y="747.0"/>
+      <point x="502.0" y="787.0" type="curve" smooth="yes"/>
+      <point x="502.0" y="826.0"/>
+      <point x="476.0" y="860.0"/>
+      <point x="426.0" y="860.0" type="curve" smooth="yes"/>
+      <point x="368.0" y="860.0"/>
+      <point x="335.0" y="820.0"/>
+      <point x="335.0" y="779.0" type="curve" smooth="yes"/>
+      <point x="335.0" y="741.0"/>
+      <point x="361.0" y="706.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/10/12 10:39:55</string>
+    </dict>
+  </lib>
+</glyph>

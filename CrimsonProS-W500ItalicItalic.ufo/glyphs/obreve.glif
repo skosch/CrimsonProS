@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="obreve" format="2">
+  <advance width="457.0"/>
+  <unicode hex="014F"/>
+  <note>
+obreve
+</note>
+  <outline>
+    <component base="o"/>
+    <component base="brevecomb" xOffset="-71.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/14 22:28:01</string>
+    </dict>
+  </lib>
+</glyph>

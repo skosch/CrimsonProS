@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflex" format="2">
+  <advance width="457.0"/>
+  <unicode hex="00E2"/>
+  <note>
+acircumflex
+</note>
+  <outline>
+    <component base="a"/>
+    <component base="circumflexcomb" xOffset="-68.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>a</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>a</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/14 22:41:32</string>
+    </dict>
+  </lib>
+</glyph>

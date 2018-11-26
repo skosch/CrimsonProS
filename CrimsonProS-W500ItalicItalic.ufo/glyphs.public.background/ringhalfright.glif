@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringhalfright" format="2">
+  <anchor x="345.554" y="435.536" name="_top"/>
+  <anchor x="395.679" y="673.161" name="top"/>
+  <outline>
+    <contour>
+      <point x="399.554" y="689.643" type="curve"/>
+      <point x="391.446" y="651.446" type="line"/>
+      <point x="420.446" y="647.0"/>
+      <point x="439.446" y="623.446"/>
+      <point x="439.446" y="590.554" type="curve" smooth="yes"/>
+      <point x="439.446" y="553.661"/>
+      <point x="415.446" y="528.661"/>
+      <point x="381.0" y="528.661" type="curve" smooth="yes"/>
+      <point x="376.0" y="528.661"/>
+      <point x="371.0" y="529.661"/>
+      <point x="366.0" y="530.661" type="curve"/>
+      <point x="357.339" y="490.018" type="line"/>
+      <point x="364.893" y="489.018"/>
+      <point x="372.446" y="488.018"/>
+      <point x="380.0" y="488.018" type="curve" smooth="yes"/>
+      <point x="440.982" y="488.018"/>
+      <point x="486.196" y="531.679"/>
+      <point x="486.196" y="589.554" type="curve" smooth="yes"/>
+      <point x="486.196" y="641.875"/>
+      <point x="450.429" y="681.536"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.osf" format="2">
+  <advance width="343.0"/>
+  <note>
+one.onum
+</note>
+  <outline>
+    <contour>
+      <point x="208.0" y="58.0" type="line"/>
+      <point x="210.0" y="75.0"/>
+      <point x="219.0" y="118.0"/>
+      <point x="229.0" y="167.0" type="curve" smooth="yes"/>
+      <point x="258.0" y="303.0" type="line" smooth="yes"/>
+      <point x="271.0" y="364.0"/>
+      <point x="283.0" y="412.0"/>
+      <point x="295.0" y="447.0" type="curve"/>
+      <point x="69.0" y="357.0" type="line"/>
+      <point x="61.0" y="304.0" type="line"/>
+      <point x="150.0" y="324.0" type="line"/>
+      <point x="148.0" y="306.0"/>
+      <point x="144.0" y="281.0"/>
+      <point x="139.0" y="257.0" type="curve" smooth="yes"/>
+      <point x="117.0" y="151.0" type="line" smooth="yes"/>
+      <point x="109.0" y="112.0"/>
+      <point x="99.0" y="75.0"/>
+      <point x="93.0" y="58.0" type="curve"/>
+      <point x="18.0" y="43.0" type="line"/>
+      <point x="12.0" y="0.0" type="line"/>
+      <point x="265.0" y="0.0" type="line"/>
+      <point x="277.0" y="43.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/10/12 10:39:55</string>
+    </dict>
+  </lib>
+</glyph>

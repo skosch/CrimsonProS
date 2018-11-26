@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb" format="2">
+  <anchor x="252.0" y="0.0" name="_bottom"/>
+  <anchor x="206.0" y="-220.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="96.571" y="-294.857" type="line"/>
+      <point x="246.0" y="-267.571"/>
+      <point x="305.286" y="-189.714"/>
+      <point x="305.286" y="-120.143" type="curve" smooth="yes"/>
+      <point x="305.286" y="-67.571"/>
+      <point x="262.143" y="-47.429"/>
+      <point x="220.714" y="-47.429" type="curve" smooth="yes"/>
+      <point x="179.286" y="-47.429"/>
+      <point x="130.571" y="-69.0"/>
+      <point x="130.571" y="-120.143" type="curve" smooth="yes"/>
+      <point x="130.571" y="-174.143"/>
+      <point x="192.429" y="-171.429"/>
+      <point x="192.429" y="-197.0" type="curve" smooth="yes"/>
+      <point x="192.429" y="-215.286"/>
+      <point x="173.429" y="-239.714"/>
+      <point x="87.429" y="-254.714" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

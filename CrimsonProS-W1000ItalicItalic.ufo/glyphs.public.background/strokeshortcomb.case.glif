@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokeshortcomb.case" format="2">
+  <anchor x="258.0" y="406.0" name="_stroke"/>
+  <outline>
+    <contour>
+      <point x="47.571" y="366.857" type="line"/>
+      <point x="452.143" y="366.857" type="line"/>
+      <point x="468.429" y="445.143" type="line"/>
+      <point x="63.857" y="445.143" type="line"/>
+    </contour>
+  </outline>
+</glyph>

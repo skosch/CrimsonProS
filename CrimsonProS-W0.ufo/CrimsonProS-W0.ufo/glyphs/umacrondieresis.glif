@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="umacrondieresis" format="2">
+  <advance width="525.0"/>
+  <unicode hex="1E7B"/>
+  <note>
+    uni1E7B
+  </note>
+  <outline>
+    <component base="u"/>
+    <component base="macroncomb_dieresiscomb" xOffset="-38.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/11 19:48:27</string>
+    </dict>
+  </lib>
+</glyph>

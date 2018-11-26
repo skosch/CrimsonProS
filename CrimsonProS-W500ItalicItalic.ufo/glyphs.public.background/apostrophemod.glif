@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="apostrophemod" format="2">
+  <anchor x="345.554" y="435.536" name="_top"/>
+  <anchor x="394.893" y="664.679" name="top"/>
+  <outline>
+    <contour>
+      <point x="310.714" y="516.036" type="line"/>
+      <point x="418.411" y="539.25"/>
+      <point x="480.75" y="604.893"/>
+      <point x="480.75" y="673.446" type="curve" smooth="yes"/>
+      <point x="480.75" y="710.75"/>
+      <point x="453.893" y="728.857"/>
+      <point x="418.571" y="728.857" type="curve" smooth="yes"/>
+      <point x="383.25" y="728.857"/>
+      <point x="351.839" y="708.304"/>
+      <point x="351.839" y="673.446" type="curve" smooth="yes"/>
+      <point x="351.839" y="633.696"/>
+      <point x="394.357" y="633.357"/>
+      <point x="394.357" y="608.804" type="curve" smooth="yes"/>
+      <point x="394.357" y="587.464"/>
+      <point x="368.232" y="562.018"/>
+      <point x="303.607" y="547.018" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fivesuperior" format="2">
+  <advance width="400.0"/>
+  <unicode hex="2075"/>
+  <outline>
+    <contour>
+      <point x="171" y="193" type="curve" smooth="yes"/>
+      <point x="263" y="193"/>
+      <point x="340" y="249"/>
+      <point x="340" y="316" type="curve" smooth="yes"/>
+      <point x="340" y="388"/>
+      <point x="279" y="428"/>
+      <point x="125" y="444" type="curve"/>
+      <point x="142" y="417" type="line"/>
+      <point x="156" y="528" type="line"/>
+      <point x="312" y="528" type="line"/>
+      <point x="319" y="587" type="line"/>
+      <point x="128" y="587" type="line"/>
+      <point x="102" y="387" type="line"/>
+      <point x="237" y="375"/>
+      <point x="282" y="353"/>
+      <point x="282" y="306" type="curve" smooth="yes"/>
+      <point x="282" y="255"/>
+      <point x="227.739" y="226"/>
+      <point x="176" y="226" type="curve" smooth="yes"/>
+      <point x="169" y="226"/>
+      <point x="161" y="227"/>
+      <point x="155" y="230" type="curve"/>
+      <point x="142" y="243"/>
+      <point x="128" y="261"/>
+      <point x="117" y="277" type="curve"/>
+      <point x="112" y="280"/>
+      <point x="106" y="280"/>
+      <point x="102" y="280" type="curve" smooth="yes"/>
+      <point x="86" y="280"/>
+      <point x="67" y="269"/>
+      <point x="67" y="249" type="curve" smooth="yes"/>
+      <point x="67" y="217"/>
+      <point x="112" y="193"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/01 19:36:03</string>
+    </dict>
+  </lib>
+</glyph>

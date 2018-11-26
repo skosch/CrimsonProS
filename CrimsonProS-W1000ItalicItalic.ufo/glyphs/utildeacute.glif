@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="utildeacute" format="2">
+  <advance width="621.0"/>
+  <unicode hex="1E79"/>
+  <outline>
+    <component base="u"/>
+    <component base="tildecomb_acutecomb" xOffset="3.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/14 22:52:34</string>
+    </dict>
+  </lib>
+</glyph>

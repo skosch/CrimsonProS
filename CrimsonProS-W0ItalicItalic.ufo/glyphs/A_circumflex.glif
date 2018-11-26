@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Acircumflex" format="2">
+  <advance width="570.92857"/>
+  <unicode hex="00C2"/>
+  <note>
+Acircumflex
+</note>
+  <outline>
+    <component base="A"/>
+    <component base="circumflexcomb.case" xOffset="-33.0" yOffset="-73.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/10/17 08:29:41</string>
+    </dict>
+  </lib>
+</glyph>

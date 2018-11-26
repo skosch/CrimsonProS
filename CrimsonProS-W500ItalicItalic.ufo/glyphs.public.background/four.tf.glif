@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.tf" format="2">
+  <outline>
+    <contour>
+      <point x="398.732" y="155.143" type="curve"/>
+      <point x="456.625" y="430.929" type="line" smooth="yes"/>
+      <point x="468.732" y="487.464"/>
+      <point x="481.946" y="543.0"/>
+      <point x="494.5" y="591.0" type="curve"/>
+      <point x="430.018" y="591.0" type="line"/>
+      <point x="27.268" y="196.786" type="line"/>
+      <point x="27.161" y="155.143" type="line"/>
+      <point x="485.518" y="155.143" type="line"/>
+      <point x="501.732" y="232.321" type="line"/>
+      <point x="122.321" y="232.321" type="line"/>
+      <point x="124.089" y="211.321" type="line"/>
+      <point x="370.321" y="463.321" type="line"/>
+      <point x="351.732" y="472.857" type="line"/>
+      <point x="286.5" y="155.143" type="line"/>
+      <point x="275.607" y="106.786"/>
+      <point x="269.268" y="76.536"/>
+      <point x="264.821" y="60.304" type="curve"/>
+      <point x="178.5" y="44.643" type="line"/>
+      <point x="171.393" y="0.0" type="line"/>
+      <point x="429.5" y="0.0" type="line"/>
+      <point x="441.714" y="44.643" type="line"/>
+      <point x="382.054" y="60.304" type="line"/>
+      <point x="383.946" y="76.089"/>
+      <point x="389.286" y="107.679"/>
+    </contour>
+  </outline>
+</glyph>

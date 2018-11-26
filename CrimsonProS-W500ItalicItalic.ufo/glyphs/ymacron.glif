@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ymacron" format="2">
+  <advance width="462.0"/>
+  <unicode hex="0233"/>
+  <outline>
+    <component base="y"/>
+    <component base="macroncomb" xOffset="-70.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/14 23:09:37</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="questiondown" format="2">
+  <advance width="371.0"/>
+  <unicode hex="00BF"/>
+  <note>
+questiondown
+</note>
+  <outline>
+    <contour>
+      <point x="213.0" y="229.0" type="line"/>
+      <point x="213.0" y="75.0"/>
+      <point x="-14.0" y="120.0"/>
+      <point x="-14.0" y="-59.0" type="curve" smooth="yes"/>
+      <point x="-14.0" y="-151.0"/>
+      <point x="63.0" y="-229.0"/>
+      <point x="177.0" y="-229.0" type="curve" smooth="yes"/>
+      <point x="260.0" y="-229.0"/>
+      <point x="306.0" y="-171.0"/>
+      <point x="275.0" y="-104.0" type="curve"/>
+      <point x="224.0" y="-122.0"/>
+      <point x="174.0" y="-130.0"/>
+      <point x="140.0" y="-130.0" type="curve" smooth="yes"/>
+      <point x="86.0" y="-130.0"/>
+      <point x="57.0" y="-112.0"/>
+      <point x="57.0" y="-81.0" type="curve" smooth="yes"/>
+      <point x="57.0" y="20.0"/>
+      <point x="312.0" y="20.0"/>
+      <point x="263.0" y="219.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="262.0" y="444.0" type="curve" smooth="yes"/>
+      <point x="217.0" y="444.0"/>
+      <point x="181.0" y="410.0"/>
+      <point x="181.0" y="365.0" type="curve" smooth="yes"/>
+      <point x="181.0" y="320.0"/>
+      <point x="217.0" y="286.0"/>
+      <point x="262.0" y="286.0" type="curve" smooth="yes"/>
+      <point x="307.0" y="286.0"/>
+      <point x="343.0" y="320.0"/>
+      <point x="343.0" y="365.0" type="curve" smooth="yes"/>
+      <point x="343.0" y="409.0"/>
+      <point x="308.0" y="444.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|question</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>question</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/10/12 10:39:55</string>
+    </dict>
+  </lib>
+</glyph>

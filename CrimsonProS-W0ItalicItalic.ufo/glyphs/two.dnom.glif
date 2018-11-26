@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.dnom" format="2">
+  <advance width="400.0"/>
+  <note>
+uni2082
+</note>
+  <outline>
+    <contour>
+      <point x="20.0" y="25.0" type="curve"/>
+      <point x="17.0" y="-2.0" type="line"/>
+      <point x="34.0" y="-1.0"/>
+      <point x="51.0" y="0.0"/>
+      <point x="68.0" y="0.0" type="curve" smooth="yes"/>
+      <point x="220.0" y="0.0" type="line" smooth="yes"/>
+      <point x="249.0" y="0.0"/>
+      <point x="271.0" y="-1.0"/>
+      <point x="293.0" y="-3.0" type="curve"/>
+      <point x="333.0" y="109.0" type="line"/>
+      <point x="304.0" y="111.0" type="line"/>
+      <point x="271.0" y="59.0" type="line"/>
+      <point x="263.0" y="57.0"/>
+      <point x="254.0" y="56.0"/>
+      <point x="245.0" y="56.0" type="curve" smooth="yes"/>
+      <point x="86.0" y="56.0" type="line"/>
+      <point x="99.0" y="49.0" type="line"/>
+      <point x="206.0" y="105.0"/>
+      <point x="330.0" y="205.0"/>
+      <point x="330.0" y="295.0" type="curve" smooth="yes"/>
+      <point x="330.0" y="354.0"/>
+      <point x="289.0" y="394.0"/>
+      <point x="217.0" y="394.0" type="curve" smooth="yes"/>
+      <point x="153.0" y="394.0"/>
+      <point x="98.0" y="358.0"/>
+      <point x="65.0" y="306.0" type="curve"/>
+      <point x="81.0" y="289.0" type="line"/>
+      <point x="113.0" y="323.0"/>
+      <point x="150.0" y="341.0"/>
+      <point x="189.0" y="341.0" type="curve" smooth="yes"/>
+      <point x="240.0" y="341.0"/>
+      <point x="267.0" y="316.0"/>
+      <point x="267.0" y="278.0" type="curve" smooth="yes"/>
+      <point x="267.0" y="218.0"/>
+      <point x="224.0" y="154.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/10/12 10:39:55</string>
+    </dict>
+  </lib>
+</glyph>

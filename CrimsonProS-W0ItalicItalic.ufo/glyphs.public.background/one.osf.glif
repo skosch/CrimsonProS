@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.osf" format="2">
+  <outline>
+    <contour>
+      <point x="169.357" y="45.429" type="line"/>
+      <point x="172.821" y="67.286"/>
+      <point x="179.357" y="103.036"/>
+      <point x="188.893" y="147.179" type="curve" smooth="yes"/>
+      <point x="227.071" y="327.143" type="line" smooth="yes"/>
+      <point x="236.214" y="369.786"/>
+      <point x="245.821" y="404.75"/>
+      <point x="254.429" y="433.964" type="curve"/>
+      <point x="99.929" y="362.786" type="line"/>
+      <point x="95.786" y="326.214" type="line"/>
+      <point x="176.071" y="345.75" type="line"/>
+      <point x="173.607" y="324.357"/>
+      <point x="171.536" y="310.464"/>
+      <point x="166.536" y="287.929" type="curve" smooth="yes"/>
+      <point x="133.893" y="134.107" type="line" smooth="yes"/>
+      <point x="126.357" y="98.964"/>
+      <point x="119.286" y="69.214"/>
+      <point x="112.821" y="45.429" type="curve"/>
+      <point x="37.821" y="32.357" type="line"/>
+      <point x="32.286" y="0.0" type="line"/>
+      <point x="229.75" y="0.0" type="line"/>
+      <point x="238.357" y="32.357" type="line"/>
+    </contour>
+  </outline>
+</glyph>

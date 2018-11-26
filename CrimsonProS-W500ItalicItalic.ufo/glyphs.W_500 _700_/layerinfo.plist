@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>lib</key>
+    <dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>46AC06F4-E716-42F3-9204-29BCE0A0A6D7</string>
+      <key>com.schriftgestaltung.layerOrderInGlyph.cent</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.colonsign</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dollar</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.guarani</key>
+      <integer>3</integer>
+    </dict>
+  </dict>
+</plist>

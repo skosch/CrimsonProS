@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commercialMinusSign" format="2">
+  <outline>
+    <contour>
+      <point x="104.357" y="0.0" type="line"/>
+      <point x="156.036" y="0.0" type="line"/>
+      <point x="471.036" y="587.0" type="line"/>
+      <point x="420.821" y="587.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="287.393" y="-5.607" type="curve" smooth="yes"/>
+      <point x="314.036" y="-5.607"/>
+      <point x="332.607" y="15.357"/>
+      <point x="332.607" y="43.929" type="curve" smooth="yes"/>
+      <point x="332.607" y="72.036"/>
+      <point x="314.036" y="93.536"/>
+      <point x="287.393" y="93.536" type="curve" smooth="yes"/>
+      <point x="260.286" y="93.536"/>
+      <point x="242.179" y="72.036"/>
+      <point x="242.179" y="43.929" type="curve" smooth="yes"/>
+      <point x="242.179" y="15.357"/>
+      <point x="260.286" y="-5.607"/>
+    </contour>
+    <contour>
+      <point x="288.0" y="493.464" type="curve" smooth="yes"/>
+      <point x="314.643" y="493.464"/>
+      <point x="334.679" y="514.429"/>
+      <point x="334.679" y="544.464" type="curve" smooth="yes"/>
+      <point x="334.679" y="572.571"/>
+      <point x="314.643" y="594.071"/>
+      <point x="288.0" y="594.071" type="curve" smooth="yes"/>
+      <point x="260.893" y="594.071"/>
+      <point x="242.786" y="572.571"/>
+      <point x="242.786" y="544.464" type="curve" smooth="yes"/>
+      <point x="242.786" y="514.429"/>
+      <point x="260.893" y="493.464"/>
+    </contour>
+  </outline>
+</glyph>

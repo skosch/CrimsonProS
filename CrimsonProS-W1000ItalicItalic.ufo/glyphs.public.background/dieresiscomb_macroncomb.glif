@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb_macroncomb" format="2">
+  <anchor x="346.571" y="445.714" name="_top"/>
+  <outline>
+    <contour>
+      <point x="253.857" y="764.429" type="line"/>
+      <point x="235.571" y="681.143" type="line"/>
+      <point x="561.286" y="681.143" type="line"/>
+      <point x="579.571" y="764.429" type="line"/>
+    </contour>
+    <contour>
+      <point x="266.714" y="501.286" type="curve" smooth="yes"/>
+      <point x="320.286" y="501.286"/>
+      <point x="347.571" y="541.571"/>
+      <point x="347.571" y="578.857" type="curve" smooth="yes"/>
+      <point x="347.571" y="615.857"/>
+      <point x="327.429" y="648.429"/>
+      <point x="279.0" y="648.429" type="curve" smooth="yes"/>
+      <point x="222.857" y="648.429"/>
+      <point x="196.143" y="608.714"/>
+      <point x="196.143" y="570.857" type="curve" smooth="yes"/>
+      <point x="196.143" y="534.429"/>
+      <point x="215.714" y="501.286"/>
+    </contour>
+    <contour>
+      <point x="473.857" y="501.286" type="curve" smooth="yes"/>
+      <point x="527.429" y="501.286"/>
+      <point x="554.714" y="541.571"/>
+      <point x="554.714" y="578.857" type="curve" smooth="yes"/>
+      <point x="554.714" y="615.857"/>
+      <point x="534.571" y="648.429"/>
+      <point x="486.143" y="648.429" type="curve" smooth="yes"/>
+      <point x="430.0" y="648.429"/>
+      <point x="403.286" y="608.714"/>
+      <point x="403.286" y="570.857" type="curve" smooth="yes"/>
+      <point x="403.286" y="534.429"/>
+      <point x="422.857" y="501.286"/>
+    </contour>
+  </outline>
+</glyph>

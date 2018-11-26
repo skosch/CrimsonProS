@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Delta" format="2">
+  <advance width="630.0"/>
+  <unicode hex="0394"/>
+  <note>
+uni2206
+</note>
+  <outline>
+    <contour>
+      <point x="-36.0" y="0.0" type="line"/>
+      <point x="576.0" y="0.0" type="line"/>
+      <point x="403.0" y="607.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="36.0" y="19.0" type="line"/>
+      <point x="399.0" y="522.0" type="line"/>
+      <point x="349.0" y="482.0" type="line"/>
+      <point x="484.0" y="19.0" type="line"/>
+      <point x="530.0" y="53.0" type="line"/>
+      <point x="7.0" y="53.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/10/12 10:39:55</string>
+    </dict>
+  </lib>
+</glyph>

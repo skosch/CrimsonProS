@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="summation" format="2">
+  <advance width="484.0"/>
+  <unicode hex="2211"/>
+  <note>
+    summation
+  </note>
+  <outline>
+    <contour>
+      <point x="413.0" y="71.0" type="line"/>
+      <point x="401.0" y="-23.0" type="line"/>
+      <point x="384.0" y="-25.0"/>
+      <point x="366.0" y="-26.0"/>
+      <point x="343.0" y="-26.0" type="curve" smooth="yes"/>
+      <point x="65.0" y="-26.0" type="line"/>
+      <point x="67.0" y="-77.0" type="line"/>
+      <point x="312.0" y="270.0" type="line"/>
+      <point x="92.0" y="572.0" type="line"/>
+      <point x="84.0" y="544.0" type="line"/>
+      <point x="341.0" y="544.0" type="line" smooth="yes"/>
+      <point x="364.0" y="544.0"/>
+      <point x="382.0" y="543.0"/>
+      <point x="399.0" y="543.0" type="curve"/>
+      <point x="410.0" y="441.0" type="line"/>
+      <point x="443.0" y="441.0" type="line"/>
+      <point x="444.0" y="588.0" type="line"/>
+      <point x="414.0" y="587.0"/>
+      <point x="393.0" y="587.0"/>
+      <point x="368.0" y="587.0" type="curve" smooth="yes"/>
+      <point x="88.0" y="587.0" type="line" smooth="yes"/>
+      <point x="63.0" y="587.0"/>
+      <point x="38.0" y="588.0"/>
+      <point x="13.0" y="589.0" type="curve"/>
+      <point x="13.0" y="561.0" type="line"/>
+      <point x="259.0" y="220.0" type="line"/>
+      <point x="257.0" y="272.0" type="line"/>
+      <point x="18.0" y="-63.0" type="line"/>
+      <point x="18.0" y="-92.0" type="line"/>
+      <point x="43.0" y="-91.0"/>
+      <point x="68.0" y="-90.0"/>
+      <point x="94.0" y="-90.0" type="curve" smooth="yes"/>
+      <point x="370.0" y="-90.0" type="line" smooth="yes"/>
+      <point x="394.0" y="-90.0"/>
+      <point x="416.0" y="-90.0"/>
+      <point x="445.0" y="-91.0" type="curve"/>
+      <point x="445.0" y="71.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/01 19:36:03</string>
+    </dict>
+  </lib>
+</glyph>

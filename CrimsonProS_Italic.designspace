@@ -1,0 +1,338 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="275" maximum="900" default="275">
+      <map input="275" output="0"/>
+      <map input="300" output="88"/>
+      <map input="400" output="500"/>
+      <map input="500" output="351"/>
+      <map input="600" output="509"/>
+      <map input="700" output="675"/>
+      <map input="800" output="848"/>
+      <map input="900" output="1000"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="CrimsonProS-W0ItalicItalic.ufo" name="CrimsonProS W0 Italic Italic" familyname="CrimsonProS" stylename="W0 Italic Italic">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="CrimsonProS-W500ItalicItalic.ufo" name="CrimsonProS W500 Italic Italic" familyname="CrimsonProS" stylename="W500 Italic Italic">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </source>
+    <source filename="CrimsonProS-W1000ItalicItalic.ufo" name="CrimsonProS W1000 Italic Italic" familyname="CrimsonProS" stylename="W1000 Italic Italic">
+      <location>
+        <dimension name="Weight" xvalue="1000"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="CrimsonProS Thin Italic" familyname="CrimsonProS" stylename="Thin Italic" filename="instance_ufos/CrimsonProS-ThinItalic.ufo" stylemapfamilyname="CrimsonProS Thin" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>D9A1C40A-2361-406B-8D3E-8FA7FBCB82BD</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Thin</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="CrimsonProS ExtraLight Italic" familyname="CrimsonProS" stylename="ExtraLight Italic" filename="instance_ufos/CrimsonProS-ExtraLightItalic.ufo" stylemapfamilyname="CrimsonProS ExtraLight" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="88"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>D9A1C40A-2361-406B-8D3E-8FA7FBCB82BD</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>ExtraLight</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="CrimsonProS Light Italic" familyname="CrimsonProS" stylename="Light Italic" filename="instance_ufos/CrimsonProS-LightItalic.ufo" stylemapfamilyname="CrimsonProS Light" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="110"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>925D3525-5003-4FA1-BE98-2BABE6F3DA5C</key>
+            <real>0.176</real>
+            <key>D9A1C40A-2361-406B-8D3E-8FA7FBCB82BD</key>
+            <real>0.824</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Light</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="CrimsonProS Italic" familyname="CrimsonProS" stylename="Italic" filename="instance_ufos/CrimsonProS-Italic.ufo" stylemapfamilyname="CrimsonProS" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="185"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>925D3525-5003-4FA1-BE98-2BABE6F3DA5C</key>
+            <real>0.422</real>
+            <key>D9A1C40A-2361-406B-8D3E-8FA7FBCB82BD</key>
+            <real>0.578</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="CrimsonProS Medium Italic" familyname="CrimsonProS" stylename="Medium Italic" filename="instance_ufos/CrimsonProS-MediumItalic.ufo" stylemapfamilyname="CrimsonProS Medium" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="238"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>925D3525-5003-4FA1-BE98-2BABE6F3DA5C</key>
+            <real>0.702</real>
+            <key>D9A1C40A-2361-406B-8D3E-8FA7FBCB82BD</key>
+            <real>0.298</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Medium</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="CrimsonProS SemiBold Italic" familyname="CrimsonProS" stylename="SemiBold Italic" filename="instance_ufos/CrimsonProS-SemiBoldItalic.ufo" stylemapfamilyname="CrimsonProS SemiBold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="429"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>24976ABE-9171-461B-B338-52EF76BD92C7</key>
+            <real>0.018</real>
+            <key>925D3525-5003-4FA1-BE98-2BABE6F3DA5C</key>
+            <real>0.982</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>SemiBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="CrimsonProS Bold Italic" familyname="CrimsonProS" stylename="Bold Italic" filename="instance_ufos/CrimsonProS-BoldItalic.ufo" stylemapfamilyname="CrimsonProS" stylemapstylename="bold italic">
+      <location>
+        <dimension name="Weight" xvalue="675"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>24976ABE-9171-461B-B338-52EF76BD92C7</key>
+            <real>0.35</real>
+            <key>925D3525-5003-4FA1-BE98-2BABE6F3DA5C</key>
+            <real>0.65</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Bold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="CrimsonProS ExtraBold Italic" familyname="CrimsonProS" stylename="ExtraBold Italic" filename="instance_ufos/CrimsonProS-ExtraBoldItalic.ufo" stylemapfamilyname="CrimsonProS ExtraBold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="848"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>24976ABE-9171-461B-B338-52EF76BD92C7</key>
+            <real>0.696</real>
+            <key>925D3525-5003-4FA1-BE98-2BABE6F3DA5C</key>
+            <real>0.304</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>ExtraBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="CrimsonProS Black Italic" familyname="CrimsonProS" stylename="Black Italic" filename="instance_ufos/CrimsonProS-BlackItalic.ufo" stylemapfamilyname="CrimsonProS Black" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>24976ABE-9171-461B-B338-52EF76BD92C7</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Black</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="CrimsonProS W0 Italic" familyname="CrimsonProS" stylename="W0 Italic" filename="instance_ufos/CrimsonProS-W0Italic.ufo" stylemapfamilyname="CrimsonProS W0" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <false/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>D9A1C40A-2361-406B-8D3E-8FA7FBCB82BD</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>ExtraLight</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="CrimsonProS W500 Italic" familyname="CrimsonProS" stylename="W500 Italic" filename="instance_ufos/CrimsonProS-W500Italic.ufo" stylemapfamilyname="CrimsonProS W500" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <false/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>925D3525-5003-4FA1-BE98-2BABE6F3DA5C</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="CrimsonProS W1000 Italic" familyname="CrimsonProS" stylename="W1000 Italic" filename="instance_ufos/CrimsonProS-W1000Italic.ufo" stylemapfamilyname="CrimsonProS W1000" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <false/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>24976ABE-9171-461B-B338-52EF76BD92C7</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Black</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+</designspace>

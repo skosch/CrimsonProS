@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slashshortcomb.case" format="2">
+  <anchor x="135.571" y="330.0" name="_center"/>
+  <outline>
+    <contour>
+      <point x="-52.571" y="185.571" type="line"/>
+      <point x="359.714" y="411.143" type="line"/>
+      <point x="323.714" y="474.429" type="line"/>
+      <point x="-88.571" y="248.857" type="line"/>
+    </contour>
+  </outline>
+</glyph>

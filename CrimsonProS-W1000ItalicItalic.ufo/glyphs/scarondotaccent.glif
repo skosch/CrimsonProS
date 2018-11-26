@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scarondotaccent" format="2">
+  <advance width="416.0"/>
+  <unicode hex="1E67"/>
+  <outline>
+    <component base="s"/>
+    <component base="caroncomb_dotaccentcomb" xOffset="-95.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/14 22:51:43</string>
+    </dict>
+  </lib>
+</glyph>

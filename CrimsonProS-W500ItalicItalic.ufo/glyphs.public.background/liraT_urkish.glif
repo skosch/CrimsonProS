@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="liraTurkish" format="2">
+  <outline>
+    <contour>
+      <point x="233.75" y="-9.0" type="curve" smooth="yes"/>
+      <point x="355.393" y="-9.0"/>
+      <point x="441.143" y="37.0"/>
+      <point x="504.679" y="130.518" type="curve"/>
+      <point x="465.143" y="165.161" type="line"/>
+      <point x="418.607" y="106.732"/>
+      <point x="362.161" y="73.946"/>
+      <point x="292.482" y="73.946" type="curve" smooth="yes"/>
+      <point x="254.25" y="73.946"/>
+      <point x="211.571" y="84.946"/>
+      <point x="184.232" y="107.732" type="curve"/>
+      <point x="242.25" y="375.375" type="line" smooth="yes"/>
+      <point x="263.036" y="471.643"/>
+      <point x="272.696" y="511.161"/>
+      <point x="280.911" y="526.25" type="curve"/>
+      <point x="347.571" y="542.357" type="line"/>
+      <point x="354.125" y="587.0" type="line"/>
+      <point x="103.125" y="587.0" type="line"/>
+      <point x="91.464" y="542.357" type="line"/>
+      <point x="150.571" y="526.25" type="line"/>
+      <point x="152.464" y="512.054"/>
+      <point x="144.036" y="462.554"/>
+      <point x="125.464" y="375.375" type="curve" smooth="yes"/>
+      <point x="56.339" y="49.536" type="line"/>
+      <point x="96.446" y="10.0"/>
+      <point x="176.875" y="-9.0"/>
+    </contour>
+    <contour>
+      <point x="-1.429" y="178.804" type="line"/>
+      <point x="437.625" y="337.786" type="line"/>
+      <point x="448.839" y="391.643" type="line"/>
+      <point x="10.232" y="232.661" type="line"/>
+    </contour>
+    <contour>
+      <point x="24.018" y="296.589" type="line"/>
+      <point x="462.071" y="454.571" type="line"/>
+      <point x="473.732" y="508.429" type="line"/>
+      <point x="35.232" y="350.446" type="line"/>
+    </contour>
+  </outline>
+</glyph>

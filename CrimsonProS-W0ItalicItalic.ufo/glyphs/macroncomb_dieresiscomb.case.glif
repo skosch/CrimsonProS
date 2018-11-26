@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb_dieresiscomb.case" format="2">
+  <advance width="600.0"/>
+  <anchor x="394.0" y="660.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="264.0" y="768.0" type="line"/>
+      <point x="572.0" y="768.0" type="line"/>
+      <point x="582.0" y="815.0" type="line"/>
+      <point x="275.0" y="815.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="360.0" y="890.0" type="curve" smooth="yes"/>
+      <point x="383.0" y="890.0"/>
+      <point x="402.0" y="906.0"/>
+      <point x="402.0" y="936.0" type="curve" smooth="yes"/>
+      <point x="402.0" y="960.0"/>
+      <point x="386.0" y="976.0"/>
+      <point x="364.0" y="976.0" type="curve" smooth="yes"/>
+      <point x="341.0" y="976.0"/>
+      <point x="320.0" y="957.0"/>
+      <point x="320.0" y="929.0" type="curve" smooth="yes"/>
+      <point x="320.0" y="905.0"/>
+      <point x="337.0" y="890.0"/>
+    </contour>
+    <contour>
+      <point x="544.0" y="890.0" type="curve" smooth="yes"/>
+      <point x="567.0" y="890.0"/>
+      <point x="586.0" y="907.0"/>
+      <point x="586.0" y="936.0" type="curve" smooth="yes"/>
+      <point x="586.0" y="960.0"/>
+      <point x="570.0" y="976.0"/>
+      <point x="549.0" y="976.0" type="curve" smooth="yes"/>
+      <point x="525.0" y="976.0"/>
+      <point x="504.0" y="957.0"/>
+      <point x="504.0" y="929.0" type="curve" smooth="yes"/>
+      <point x="504.0" y="905.0"/>
+      <point x="521.0" y="890.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/10/12 10:39:55</string>
+    </dict>
+  </lib>
+</glyph>

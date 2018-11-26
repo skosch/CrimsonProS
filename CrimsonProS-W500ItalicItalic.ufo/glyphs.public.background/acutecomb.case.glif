@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.case" format="2">
+  <anchor x="394.0" y="660.0" name="_top"/>
+  <anchor x="438.893" y="871.464" name="top"/>
+  <outline>
+    <contour>
+      <point x="430.982" y="707.018" type="line"/>
+      <point x="582.339" y="834.0" type="line"/>
+      <point x="483.643" y="857.0" type="line"/>
+      <point x="379.357" y="724.893" type="line"/>
+    </contour>
+  </outline>
+</glyph>

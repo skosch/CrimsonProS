@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="literSign" format="2">
+  <outline>
+    <contour>
+      <point x="8.464" y="162.0" type="curve"/>
+      <point x="28.018" y="117.929" type="line"/>
+      <point x="250.196" y="252.161"/>
+      <point x="519.679" y="460.143"/>
+      <point x="519.679" y="629.679" type="curve" smooth="yes"/>
+      <point x="519.679" y="673.0"/>
+      <point x="494.357" y="696.0"/>
+      <point x="445.607" y="696.0" type="curve" smooth="yes"/>
+      <point x="308.232" y="696.0"/>
+      <point x="168.161" y="445.357"/>
+      <point x="115.786" y="199.5" type="curve" smooth="yes"/>
+      <point x="107.786" y="163.946"/>
+      <point x="104.232" y="132.393"/>
+      <point x="104.232" y="105.286" type="curve" smooth="yes"/>
+      <point x="104.232" y="25.429"/>
+      <point x="137.321" y="-15.0"/>
+      <point x="202.839" y="-15.0" type="curve" smooth="yes"/>
+      <point x="256.929" y="-15.0"/>
+      <point x="322.429" y="18.411"/>
+      <point x="372.429" y="81.071" type="curve"/>
+      <point x="345.339" y="110.161" type="line"/>
+      <point x="305.679" y="70.393"/>
+      <point x="275.464" y="53.071"/>
+      <point x="249.25" y="53.071" type="curve" smooth="yes"/>
+      <point x="224.357" y="53.071"/>
+      <point x="211.911" y="71.518"/>
+      <point x="211.911" y="112.411" type="curve" smooth="yes"/>
+      <point x="211.911" y="136.304"/>
+      <point x="215.911" y="166.643"/>
+      <point x="224.357" y="206.429" type="curve" smooth="yes"/>
+      <point x="260.518" y="377.214"/>
+      <point x="359.179" y="646.696"/>
+      <point x="415.286" y="646.696" type="curve" smooth="yes"/>
+      <point x="427.625" y="646.696"/>
+      <point x="434.518" y="635.143"/>
+      <point x="434.518" y="614.25" type="curve" smooth="yes"/>
+      <point x="434.518" y="459.929"/>
+      <point x="207.321" y="280.679"/>
+    </contour>
+  </outline>
+</glyph>

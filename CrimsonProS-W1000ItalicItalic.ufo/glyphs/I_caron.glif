@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Icaron" format="2">
+  <advance width="374.0"/>
+  <unicode hex="01CF"/>
+  <outline>
+    <component base="I"/>
+    <component base="caroncomb.case" xOffset="-128.0" yOffset="-73.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/10/17 08:29:41</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign" format="2">
+  <outline>
+    <contour>
+      <point x="243.464" y="0.0" type="line"/>
+      <point x="304.429" y="0.0" type="line"/>
+      <point x="490.661" y="587.0" type="line"/>
+      <point x="429.804" y="587.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="36.554" y="167.125" type="line"/>
+      <point x="481.554" y="167.125" type="line"/>
+      <point x="487.661" y="223.875" type="line"/>
+      <point x="42.661" y="223.875" type="line"/>
+    </contour>
+    <contour>
+      <point x="72.0" y="0.0" type="line"/>
+      <point x="132.857" y="0.0" type="line"/>
+      <point x="319.196" y="587.0" type="line"/>
+      <point x="258.786" y="587.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="75.0" y="363.125" type="line"/>
+      <point x="520.0" y="363.125" type="line"/>
+      <point x="526.107" y="419.875" type="line"/>
+      <point x="81.107" y="419.875" type="line"/>
+    </contour>
+  </outline>
+</glyph>

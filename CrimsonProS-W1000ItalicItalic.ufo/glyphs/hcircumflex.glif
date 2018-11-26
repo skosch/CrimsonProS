@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hcircumflex" format="2">
+  <advance width="608.0"/>
+  <unicode hex="0125"/>
+  <note>
+hcircumflex
+</note>
+  <outline>
+    <component base="h"/>
+    <component base="circumflexcomb.case" xOffset="-147.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/14 22:46:57</string>
+    </dict>
+  </lib>
+</glyph>

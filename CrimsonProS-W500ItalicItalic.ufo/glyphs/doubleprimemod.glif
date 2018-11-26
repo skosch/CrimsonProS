@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doubleprimemod" format="2">
+  <advance width="600.0"/>
+  <unicode hex="02BA"/>
+  <note>
+uni030B
+</note>
+  <anchor x="346.0" y="436.0" name="_top"/>
+  <anchor x="399.0" y="687.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="442.0" y="483.0" type="line"/>
+      <point x="568.0" y="660.0" type="line"/>
+      <point x="487.0" y="677.0" type="line"/>
+      <point x="399.0" y="499.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="315.0" y="483.0" type="line"/>
+      <point x="441.0" y="660.0" type="line"/>
+      <point x="360.0" y="677.0" type="line"/>
+      <point x="272.0" y="499.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/10/12 10:39:55</string>
+    </dict>
+  </lib>
+</glyph>

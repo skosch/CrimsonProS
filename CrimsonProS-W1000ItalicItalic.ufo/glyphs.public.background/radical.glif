@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="radical" format="2">
+  <outline>
+    <contour>
+      <point x="259.714" y="-94.0" type="line"/>
+      <point x="318.857" y="-94.0" type="line"/>
+      <point x="781.714" y="688.0" type="line"/>
+      <point x="683.429" y="688.0" type="line"/>
+      <point x="348.571" y="79.857" type="line"/>
+      <point x="390.143" y="79.286" type="line"/>
+      <point x="327.857" y="370.429" type="line" smooth="yes"/>
+      <point x="321.286" y="402.714"/>
+      <point x="315.0" y="423.429"/>
+      <point x="312.429" y="447.714" type="curve"/>
+      <point x="89.286" y="445.143" type="line"/>
+      <point x="74.571" y="388.286" type="line"/>
+      <point x="137.286" y="373.143" type="line"/>
+    </contour>
+  </outline>
+</glyph>
