@@ -60,7 +60,7 @@
     </instance>
     <instance name="CrimsonProS ExtraLight" familyname="CrimsonProS" stylename="ExtraLight" filename="instance_ufos/CrimsonProS-ExtraLight.ufo">
       <location>
-        <dimension name="Weight" xvalue="88"/>
+        <dimension name="Weight" xvalue="55"/>
       </location>
       <kerning/>
       <info/>
