@@ -9,7 +9,7 @@ weight distribution.
 
 It's not better than the original Crimson Pro by @Fonthausen, it's just a little different.
 
-![Waterfall Specimen](https://raw.githubusercontent.com/skosch/CrimsonProS/master/specimen/waterfall.png)
+![Waterfall Specimen](https://raw.githubusercontent.com/skosch/CrimsonProS/master/specimen/waterfall.png | width=1000)
 
 ## Building the weight instances
 
